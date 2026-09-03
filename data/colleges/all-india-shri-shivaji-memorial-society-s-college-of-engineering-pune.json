@@ -1,0 +1,67 @@
+{
+  "id": "all-india-shri-shivaji-memorial-society-s-college-of-engineering-pune",
+  "name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+  "slug": "all-india-shri-shivaji-memorial-society-s-college-of-engineering-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "AISSMS",
+  "documents": {
+    "fees": {
+      "available": false,
+      "files": []
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Admission-Flowchart-6278.jpg",
+          "path": "/documents/all-india-shri-shivaji-memorial-society-s-college-of-engineering-pune/Admission-Flowchart-6278.jpg",
+          "type": "admission",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        },
+        {
+          "fileName": "First-Year-B.Tech-Cap-Admission-Notice-2026-27.pdf",
+          "path": "/documents/all-india-shri-shivaji-memorial-society-s-college-of-engineering-pune/First-Year-B.Tech-Cap-Admission-Notice-2026-27.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": false,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "Admission-Flowchart-6278.jpg": "IMAGE_DOCUMENT",
+    "First-Year-B.Tech-Cap-Admission-Notice-2026-27.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 0,
+    "docsCount": 0
+  },
+  "code": "06278",
+  "cetCode": "06278",
+  "dteCode": "06278"
+}

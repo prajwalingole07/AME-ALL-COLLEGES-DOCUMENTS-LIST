@@ -1,0 +1,68 @@
+{
+  "id": "zeal-education-society-s-zeal-college-of-engineering-reserch-narhe-pune",
+  "name": "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",
+  "slug": "zeal-education-society-s-zeal-college-of-engineering-reserch-narhe-pune",
+  "location": "Narhe, Maharashtra",
+  "city": "Narhe",
+  "type": "Private",
+  "acronym": "ZESSZC",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/zeal-education-society-s-zeal-college-of-engineering-reserch-narhe-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/zeal-education-society-s-zeal-college-of-engineering-reserch-narhe-pune/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06298",
+  "cetCode": "06298",
+  "dteCode": "06298"
+}

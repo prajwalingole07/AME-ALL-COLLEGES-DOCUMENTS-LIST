@@ -1,0 +1,125 @@
+{
+  "id": "k-j-s-educational-institut-trinity-college-of-engineering-and-research-pisoli-ha",
+  "name": "K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",
+  "slug": "k-j-s-educational-institut-trinity-college-of-engineering-and-research-pisoli-ha",
+  "location": "Pisoli, Maharashtra",
+  "city": "Pisoli",
+  "type": "Private",
+  "acronym": "KJSEIT",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/k-j-s-educational-institut-trinity-college-of-engineering-and-research-pisoli-ha/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/k-j-s-educational-institut-trinity-college-of-engineering-and-research-pisoli-ha/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": [
+      {
+        "label": "Fee",
+        "raw": "Rs. 6000 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 6000"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 3000 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 3000"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 5500 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 5500"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 2750 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 2750"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 6000 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 6000"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 3000 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 3000"
+        ]
+      }
+    ]
+  },
+  "requiredDocuments": [
+    "CET Score Card",
+    "Leaving Certificate",
+    "Transfer Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "Domicile Certificate",
+    "Aadhaar",
+    "Migration Certificate",
+    "Income Certificate",
+    "Gap Certificate",
+    "Eligibility Certificate",
+    "Proforma"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "FEES REGULATING AUTHORITY - 2026-27, Mumbai\n305, Govt. Polytechnic Building, Ali Yawar Jung Marg, Bandra (E), Mumbai - 400 051 (M.S.), INDIA\nAPPROVED FORMAT FOR COMPUTATION OF FEES FOR THE\nACADEMIC YEAR 2026-27 FOR ENGG STREAM\n1\nName of the College/Institute:  K. J.'s Educational Institute's Trinity College of Engineering and Research, Pisoli, Haveli\nCode:  EN6184\nStream:  ENGG\nYear:  2026-27\nLocation:  Sr. No. 25 and 27, Kondhwa- Saswad Road, Bopdev Ghat, Pune. Pin-411048.\n2\nAcademic Year\nFee Status\nTuition Fee\nDevelopment\nFee\nTotal Fee\nFee for Academic Year 2025-26\nNo Upward Revision\n88697\n13303\n102000\nFee for Academic Year 2024-25\nApproved\n88697\n13303\n102000\nFee for Academic Year 2023-24\nNo Upward Revision\n80387\n10613\n91000\nFee for Academic Year 2022-23\nApproved\n80387\n10613\n91000\nFee for Academic Year 2021-22\nNo Upward Revision\n86453\n10547\n97000\nFee for Academic Year 2020-21\nNo Upward Revision\n86453\n10547\n97000\nFee for Academic Year 2019-20\nApproved\n86453\n10547\n97000\nb) Fee Proposed by College for AY 2026-27\n                            \nProposal Status Y and Proposed fee for 2026-27  Rs. 130000\nC) Year of recognition by respective council/Government :\n2008\n3.\nWhether undertaking on stamp paper submitted reg. refund?\nN\n4\nComputation of final tuition fee and development fee:\nExpenditure incurred (in Rs.)\nTotal\nPer Student\n(divided by 4.8)\n4.1.1\nSalary Expenditure for 2024-25 to approved teaching /non teaching staff as per Competent Authority / University\nNorms.\n102592787 61067\n4.1.2\nHonorarium/Remuneration Paid to Visiting Faculty/Guest Lecturers.\n812652\n484\n4.1.3\nStipend paid to the students\n0\n0\n4.1.4\nTotal Salary Expenditure ( 4.1.1+4.1.2+4.1.3)\n103405439 61551\n4.2\nNon salary revenue expenditure (Rent, Interest on loan, Penalties if any legal charges and unrelated expenditure\nto be excluded except interest paid on TEQIP loan ) for 2024-25\n44322450\n26382\n4.2.1\na) Less income\n0\nb) Hostel expenses,\n0\n0\n4.2.2\nTotal (4.1.4 + 4.2) - (4.2.1)\n147727889 87933\n4.2.2.1 Actual Bank Interest on Working Capital Loan Amount Claimed (0) or Total interest allowable limited to 3% of\n4.2.2 (4431837) whichever is lower\n0\n4.2.2.2 Total 4.2.2 + 4.2.2.1\n147727889 87933\n4.2.3\n10% of 4.2.2.2 for increase in cost for 2024-25\n14772789\n8793\n4.2.3.1 Equalization Factor - Duration of Course 4 Years - 4.59% of 4.2.2\n6780710\n4036\n4.3\nUsage charge for building - Regular / First Shift\nRs. 6000 per student for total sanctioned intake\n1. Usage Charges: 6000\n2. Additional Usage Charges: 0\n3. For New Colleg Additional: 0\n4. Land/Building alloted by Gov. or Public Body: N\n10080000\n6000\nUsage charge for building - Second Shift\nRs. 3000 per student for total sanctioned intake\n0\n0\n4.4\nDepreciation on other assets at approved rates -\n5766484\n3432\n4.5\nTotal of (4.2.2.2 to 4.4)\n185127872 110195\n4.6\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(This is to exclude the Tuition Waiver Scheme (TWS) students)\n1680\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Second Shift\n(This is to exclude the Tution Waiver Scheme (TWS) students)\n0\n4.7\nActual strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(Merit Quota+DSY+Management/ Institutional+NRI+EWS+Transfer)=(1138+32+36+0+106+0)\n(Excluding TFWS, J&K, and Repeaters)\n1312\nActual strength in the course run in Academic Year 2024-25 (No.) - Second Shift\n(Merit Quota+DSY+Management/ Institutional+NRI+EWS+Transfer)=(0++0+0+0+0)\n(Excluding TFWS, J&K, and Repeaters)\n0\n4.8\nControlling strength (No.)(Higher of 4.6 & 4.7) - Regular / First Shift\n1680\nControlling strength (No.)(Higher of 4.6 & 4.7) - Second Shift\n0\n4.9\nPer Student Fee (4.5/4.8)\n110195\n4.9.1\nTotal Tuition Fee (4.9 + 5510 Vacancy Allowance) (5% increase due to less admissions if any)\n115705\n \n \n \n \n  \n1/2\n\n4.10\nDevelopment fee (12% of 4.9.1)\n13885\n4.10.1 Total fee (4.9.1 + 4.10)\n129590\n4.10.2\nCredit for accreditation/quality improvement etc\nNAAC Grade - A+(5554) / NBA Courses - 0(0%)/ NIRF within top 500 - N(0) / ICAR Grade- (0) /\nMCAER/Agriculture University Grade- (0) - Add = 5554\nPh.D Holder - 15.49% - Add = 278\nResearch Publications in international journals & Patents - 0.78 per faculty per year - Add = 694\nPlacement of students - 71% - Add = 694\n7220\n4.10.3 Total Development Fee (4.10 + 4.10.2-(21105)) or Limited 15% of Tuition Fee(4.9.1- (17356)) whichever is less.\n17356\n4.10.4 Total Fee (4.9.1 + 4.10.3)\n133061\nAdditional Income Consideration - Ref: - Point No. 4.2.1 a) Less Income\nSr No\nIncome Head\nAmount\nTotal\n0\nDate\nPlace\nSignature and Seal of person authorised in terms of section 2 (l) of the Act with Code No.\nFOR OFFICE USE ONLY\nDate\nDisallowance:-\n1)\n2)\n3)\n4)\nPrepared by:\nChecked by (Chartered Accountant)\n \n \n \n \n  \n2/2\n\nFEES REGULATING AUTHORITY - 2026-27, Mumbai\n305, Govt. Polytechnic Building, Ali Yawar Jung Marg, Bandra (E), Mumbai - 400 051 (M.S.), INDIA\nAPPROVED FORMAT FOR COMPUTATION OF FEES FOR THE\nACADEMIC YEAR 2026-27 FOR MBA STREAM\n1\nName of the College/Institute:  K. J.'s Educational Institute's Trinity College of Engineering and Research, Pisoli, Haveli\nCode:  EN6184\nStream:  MBA\nYear:  2026-27\nLocation:  Sr. No. 25 and 27, Kondhwa- Saswad Road, Bopdev Ghat, Pune. Pin-411048.\n2\nAcademic Year\nFee Status\nTuition Fee\nDevelopment\nFee\nTotal Fee\nFee for Academic Year 2025-26\nNo Upward Revision\n75652\n11348\n87000\nFee for Academic Year 2024-25\nApproved\n75652\n11348\n87000\nFee for Academic Year 2023-24\nNo Upward Revision\n68723\n9277\n78000\nFee for Academic Year 2022-23\nApproved\n68723\n9277\n78000\nFee for Academic Year 2021-22\nNo Upward Revision\n85560\n10440\n96000\nFee for Academic Year 2020-21\nNo Upward Revision\n85560\n10440\n96000\nFee for Academic Year 2019-20\nApproved\n85560\n10440\n96000\nb) Fee Proposed by College for AY 2026-27\n                            \nProposal Status Y and Proposed fee for 2026-27  Rs. 105000\nC) Year of recognition by respective council/Government :\n2009\n3.\nWhether undertaking on stamp paper submitted reg. refund?\n4\nComputation of final tuition fee and development fee:\nExpenditure incurred (in Rs.)\nTotal\nPer Student\n(divided by 4.8)\n4.1.1\nSalary Expenditure for 2024-25 to approved teaching /non teaching staff as per Competent Authority / University\nNorms.\n10632603 44303\n4.1.2\nHonorarium/Remuneration Paid to Visiting Faculty/Guest Lecturers.\n92522\n386\n4.1.3\nStipend paid to the students\n0\n0\n4.1.4\nTotal Salary Expenditure ( 4.1.1+4.1.2+4.1.3)\n10725125 44688\n4.2\nNon salary revenue expenditure (Rent, Interest on loan, Penalties if any legal charges and unrelated expenditure to\nbe excluded except interest paid on TEQIP loan ) for 2024-25\n7547418\n31448\n4.2.1\na) Less income\n0\nb) Hostel expenses,\n0\n0\n4.2.2\nTotal (4.1.4 + 4.2) - (4.2.1)\n18272543 76136\n4.2.2.1 Actual Bank Interest on Working Capital Loan Amount Claimed (0) or Total interest allowable limited to 3% of\n4.2.2 (548176) whichever is lower\n0\n4.2.2.2 Total 4.2.2 + 4.2.2.1\n18272543 76136\n4.2.3\n10% of 4.2.2.2 for increase in cost for 2024-25\n1827254\n7614\n4.2.3.1 Equalization Factor - Duration of Course 2 Years - 1.50% of 4.2.2\n274088\n1142\n4.3\nUsage charge for building - Regular / First Shift\nRs. 5500 per student for total sanctioned intake\n1. Usage Charges: 5500\n2. Additional Usage Charges: 0\n3. For New Colleg Additional: 0\n4. Land/Building alloted by Gov. or Public Body: N\n1320000\n5500\nUsage charge for building - Second Shift\nRs. 2750 per student for total sanctioned intake\n0\n0\n4.4\nDepreciation on other assets at approved rates -\n823782\n3432\n4.5\nTotal of (4.2.2.2 to 4.4)\n22517667 93824\n4.6\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(This is to exclude the Tuition Waiver Scheme (TWS) students)\n240\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Second Shift\n(This is to exclude the Tution Waiver Scheme (TWS) students)\n0\n4.7\nActual strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(Merit Quota+DSY+Management/ Institutio",
+    "DOCUMENTS LIST.pdf": "K. J.'s Educational Institute\nTRINITY COLLEGE OF ENGINEERING AND RESEARCH, PUNE\n(Approved by AICTE, DTE Maharashtra & Affiliated to SPPU | Choice Code: 06184)\nMANDATORY DOCUMENTS CHECKLIST FOR ADMISSION\n1. Compulsory Documents (All Candidates)\nSr.\nNo.\nDocument Description\nType\n1\nSSC (Std. X) Mark Sheet & Passing Certificate\nOriginal + 3 Xerox Copies\n2\nHSC (Std. XII) Mark Sheet & Passing Certificate / Diploma Marksheet (for DSE)\nOriginal + 3 Xerox Copies\n3\nMHT-CET Score Card / JEE Main Score Card / GATE Score Card (as applicable)\nOriginal + 3 Xerox Copies\n4\nSchool Leaving Certificate / Transfer Certificate (LC/TC)\nOriginal + 3 Xerox Copies\n5\nCertificate of Indian Nationality (or Mentioned as 'Indian' on LC)\nOriginal + 3 Xerox Copies\n6\nDomicile Certificate (Compulsory for Maharashtra State candidates)\nOriginal + 3 Xerox Copies\n7\nAadhaar Card\n3 Photocopies\n(Self-Attested)\n8\nRecent Passport Size Photographs\n5 Copies\n2. Category & Backward Class Reservation Documents\nCategory / Claim\nAdditional Documents Required\nSC / ST\n• Caste Certificate\n• Caste / Tribe Validity Certificate\nVJ / DT / NT-A / NT-B / NT-C /\nNT-D / OBC / SBC\n• Caste Certificate\n• Caste Validity Certificate\n• Non-Creamy Layer Certificate (Valid for the current financial year)\nEWS (Economically Weaker\nSection)\n• Eligibility Certificate for Economically Weaker Section issued by competent Maharashtra\nauthority\nTFWS (Tuition Fee Waiver\nScheme)\n• Income Certificate issued by competent authority stating annual family income is below\nI8 Lakhs\nDefense Candidates\n• Defense Service Certificate (Proforma C, D, or E) & Parent's Domicile Certificate\nPersons with Disability (PwD)\n• Medical Disability Certificate issued by Civil Surgeon / Competent Authority\n3. Conditional / Other Documents\n\nCondition\nDocument Required\nGap in Education\n• Gap Certificate (Affidavit executed on Stamp Paper)\nOutside Maharashtra State\n(OMS)\n• Migration Certificate issued by the respective board or university\nName Change (if applicable)\n• Government Gazette Notification / Marriage Certificate Document\nImportant Note for Candidates: All original certificates must be submitted for physical verification at the institutional reporting centre\nduring confirmation of admission. Keep multiple scanned soft copies (PDF format) and true xerox sets for your future personal records\nbefore handing over original items to the administrative desk."
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06184",
+  "cetCode": "06184",
+  "dteCode": "06184"
+}

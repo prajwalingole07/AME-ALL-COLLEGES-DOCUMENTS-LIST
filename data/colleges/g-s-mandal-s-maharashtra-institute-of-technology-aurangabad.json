@@ -1,0 +1,68 @@
+{
+  "id": "g-s-mandal-s-maharashtra-institute-of-technology-aurangabad",
+  "name": "G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",
+  "slug": "g-s-mandal-s-maharashtra-institute-of-technology-aurangabad",
+  "location": "Aurangabad, Maharashtra",
+  "city": "Aurangabad",
+  "type": "Private",
+  "acronym": "GSMSMI",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Fees Structure.jpg",
+          "path": "/documents/g-s-mandal-s-maharashtra-institute-of-technology-aurangabad/Fees Structure.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "documents list.pdf",
+          "path": "/documents/g-s-mandal-s-maharashtra-institute-of-technology-aurangabad/documents list.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "Fees Structure.jpg": "IMAGE_DOCUMENT",
+    "documents list.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "02113",
+  "cetCode": "02113",
+  "dteCode": "02113"
+}

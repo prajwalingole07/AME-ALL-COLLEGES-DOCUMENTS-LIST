@@ -1,0 +1,68 @@
+{
+  "id": "sardar-patel-college-of-engineering-andheri",
+  "name": "Sardar Patel College of Engineering, Andheri",
+  "slug": "sardar-patel-college-of-engineering-andheri",
+  "location": "Andheri, Maharashtra",
+  "city": "Andheri",
+  "type": "Private",
+  "acronym": "SPCOEA",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/sardar-patel-college-of-engineering-andheri/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.jpg",
+          "path": "/documents/sardar-patel-college-of-engineering-andheri/DOCUMENTS LIST.jpg",
+          "type": "documents",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.jpg": "IMAGE_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "03014",
+  "cetCode": "03014",
+  "dteCode": "03014"
+}

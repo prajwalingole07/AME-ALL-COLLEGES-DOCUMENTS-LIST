@@ -1,0 +1,68 @@
+{
+  "id": "dattajirao-kadam-technical-education-society-s-textile-engineering-institute-ich",
+  "name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+  "slug": "dattajirao-kadam-technical-education-society-s-textile-engineering-institute-ich",
+  "location": "Ichalkaranji, Maharashtra",
+  "city": "Ichalkaranji",
+  "type": "Private",
+  "acronym": "DKTESS",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Fees Structure.jpg",
+          "path": "/documents/dattajirao-kadam-technical-education-society-s-textile-engineering-institute-ich/Fees Structure.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Documents list.pdf",
+          "path": "/documents/dattajirao-kadam-technical-education-society-s-textile-engineering-institute-ich/Documents list.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "Fees Structure.jpg": "IMAGE_DOCUMENT",
+    "Documents list.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06222",
+  "cetCode": "06222",
+  "dteCode": "06222"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "all-india-shri-shivaji-memorial-society-s-institute-of-information-technology-pu",
+  "name": "All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",
+  "slug": "all-india-shri-shivaji-memorial-society-s-institute-of-information-technology-pu",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "AISSMS",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "B.Tech-First-Year-Students-Fees-2026-27.pdf",
+          "path": "/documents/all-india-shri-shivaji-memorial-society-s-institute-of-information-technology-pu/B.Tech-First-Year-Students-Fees-2026-27.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.jpg",
+          "path": "/documents/all-india-shri-shivaji-memorial-society-s-institute-of-information-technology-pu/DOCUMENTS LIST.jpg",
+          "type": "documents",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "B.Tech-First-Year-Students-Fees-2026-27.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.jpg": "IMAGE_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06282",
+  "cetCode": "06282",
+  "dteCode": "06282"
+}

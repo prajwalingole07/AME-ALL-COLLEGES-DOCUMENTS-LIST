@@ -1,0 +1,77 @@
+{
+  "id": "g-h-raisoni-college-of-engineering-management-wagholi-pune",
+  "name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+  "slug": "g-h-raisoni-college-of-engineering-management-wagholi-pune",
+  "location": "Wagholi, Maharashtra",
+  "city": "Wagholi",
+  "type": "Private",
+  "acronym": "GHRCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/g-h-raisoni-college-of-engineering-management-wagholi-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "list-document.pdf",
+          "path": "/documents/g-h-raisoni-college-of-engineering-management-wagholi-pune/list-document.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Transfer Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Domicile Certificate",
+    "Migration Certificate",
+    "Nationality Certificate",
+    "Income Certificate",
+    "Allotment Letter"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SE GHraisoni\nCOLLEGE\nEngineering and\nManagement\nPure\nGH Raisoni College of Engineering & Management\nAn Empowered Autonomous Institute, Affiliated to Savitribai Phule Pune University\nApproved by AICTE, New Delhi and Recognized by Govt. of Maharashtra, NAAC Accredited \"A+\" Grade\nNavin Gat No.1200, Domkhel Road, Wagholi, Pune - 412 207 (India)\nT: +91-9604787185/186 | E: ghrcem.pune@raisoni.net | W:www.ghrcemp.raisoni.net\nCircular\nDate: 12/06/2026\nAll the students of B.Tech, M.Tech, MBA & MCA are hereby informed that\nfollowing is the course wise fee approved by Fee Regulatory Authority, Govt of\nMaharashtra for the Academic Year 2026-27\nB.Tech.\nSr. No.\nDescription\nFees (Rs.)\nTotal Fees (Rs.)\n01\nTuition Fee\n1,13,913\n*1,31,000\n02\nDevelopment Fee\n17,087\n03\nManagement Seat Fees\n1,31,000\n1,31,000\n04\nNRI Seat Fees\nNA\nNA\n05\nAgainst NRI Seat Fees.\nNA\nNA\n06\nCaution Money / Deposit\n*The fees prescribed herein are subject to the final order of the Fee\nRegulatory Authority (FRA), Government of Maharashtra, in the appeal\nfiled by the Institute, and any revision resulting therefrom shall be\napplicable and binding on all concerned.\nM.Tech.\nSr. No.\nDescription\nFees (Rs.)\nTotal Fees (Rs.)\n01\nTuition Fee\n67,391\n77,500\n02\nDevelopment Fee\n10,109\n03\nManagement Seat Fees\n77,500\n77,500\n04\nNRI Seat Fees\nNA\nNA\n05\nAgainst NRI Seat Fees.\nNA\nNA\n06\nCaution Money / Deposit\nnagement GHREA\n/An Aulonomo\nInstut\nWogholl, Pune\nsoniCo\nraisoni\nEDUCATION\nNagpur | Pune | Jalgaon\nAmravati | Pandhurna\nBhandara\nPage 5 of 6",
+    "list-document.pdf": "ACADEMIC YEAR 2026-27 \n \nCode Code: 06155 \n \nList of Documents \no CAP Allotment letter \no 10th Certificate/Marksheet \no 12th Certificate/Marksheet \no CET/ JEE(Mains)/ GATE- 2026 Score card \no Graduation Marksheet (if applicable) \no Transfer Certificate (TC) \no Migration Certificate (if applicable) \no Domicile Certificates (if applicable) \no Nationality Certificate \no Caste Certificate (if applicable) \no Caste Validity (if applicable) \no Non Creamy-layer Certificate (if applicable) \no Income Certificate (if applicable) \no Passport size photographs (4 Nos.) \no APPAR ID proof \no Aadhar Card \no Any other _________________________________ \nKeep of Documents in Originals and 3 sets of Xerox"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06155",
+  "cetCode": "06155",
+  "dteCode": "06155"
+}

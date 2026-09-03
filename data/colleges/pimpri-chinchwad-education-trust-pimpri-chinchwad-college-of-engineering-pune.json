@@ -1,0 +1,78 @@
+{
+  "id": "pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune",
+  "name": "Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",
+  "slug": "pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "PCETPC",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FORM FILLING.pdf",
+          "path": "/documents/pimpri-chinchwad-education-trust-pimpri-chinchwad-college-of-engineering-pune/FORM FILLING.pdf",
+          "type": "forms",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT",
+    "FORM FILLING.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 3,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06175",
+  "cetCode": "06175",
+  "dteCode": "06175"
+}

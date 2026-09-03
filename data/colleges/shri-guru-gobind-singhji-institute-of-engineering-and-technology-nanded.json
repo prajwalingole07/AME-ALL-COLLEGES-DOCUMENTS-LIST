@@ -1,0 +1,68 @@
+{
+  "id": "shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded",
+  "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",
+  "slug": "shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded",
+  "location": "Nanded, Maharashtra",
+  "city": "Nanded",
+  "type": "Private",
+  "acronym": "SGGSIO",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "02020",
+  "cetCode": "02020",
+  "dteCode": "02020"
+}

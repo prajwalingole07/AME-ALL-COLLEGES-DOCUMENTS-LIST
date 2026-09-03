@@ -1,0 +1,78 @@
+{
+  "id": "d-y-patil-college-of-engineering-akurdi",
+  "name": "D.Y. Patil College of Engineering, Akurdi",
+  "slug": "d-y-patil-college-of-engineering-akurdi",
+  "location": "Akurdi, Maharashtra",
+  "city": "Akurdi",
+  "type": "Private",
+  "acronym": "DYPCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DYP AKURDI FYB.TECHFees.jpg",
+          "path": "/documents/d-y-patil-college-of-engineering-akurdi/DYP AKURDI FYB.TECHFees.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DYP AKURDI DOC LIST.pdf",
+          "path": "/documents/d-y-patil-college-of-engineering-akurdi/DYP AKURDI DOC LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DYP AKURDI PROCESS.pdf",
+          "path": "/documents/d-y-patil-college-of-engineering-akurdi/DYP AKURDI PROCESS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "DYP AKURDI FYB.TECHFees.jpg": "IMAGE_DOCUMENT",
+    "DYP AKURDI DOC LIST.pdf": "SCANNED_DOCUMENT",
+    "DYP AKURDI PROCESS.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 3,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

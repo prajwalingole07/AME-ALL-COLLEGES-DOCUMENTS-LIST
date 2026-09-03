@@ -1,0 +1,81 @@
+{
+  "id": "marathwada-mitra-mandal-s-institute-of-technology-lohgaon-pune",
+  "name": "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune",
+  "slug": "marathwada-mitra-mandal-s-institute-of-technology-lohgaon-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "MMMSIO",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/marathwada-mitra-mandal-s-institute-of-technology-lohgaon-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/marathwada-mitra-mandal-s-institute-of-technology-lohgaon-pune/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "EWS Certificate",
+    "Domicile Certificate",
+    "PAN Card",
+    "Migration Certificate",
+    "Nationality Certificate",
+    "Income Certificate",
+    "Gap Certificate",
+    "Seat Acceptance"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "List of Documents (FIRST YEAR ENGINEERING) \n \nSr. \nNo List of Documents required from all Students \nOpen EBC / \nTFWS \nSC / \nST \nVJNT / \nSBC / \nOBC \nEWS \n1 Final Seat acceptance of Allotment in CAP Round – Print \nout \n✓ \n✓ \n✓ \n✓ \n✓ \n2 CET 2026 and/or JEE 2026 Score Card \n✓ \n✓ \n✓ \n✓ \n✓ \n3 H.S.C. (Std. XII) and S.S.C. 10th Mark sheets \n✓ \n✓ \n✓ \n✓ \n✓ \n4 Migration Certificate (If Other than Maharashtra Board) \n✓ \n✓ \n✓ \n✓ \n✓ \n5 XIIth College Leaving Certificate \n✓ \n✓ \n✓ \n✓ \n✓ \n6 Indian Nationality Certificate \n✓ \n✓ \n✓ \n✓ \n✓ \n7 \nDomicile Certificate - clearly indicating the place of \nPermanent Residence of the Candidate / Father or Mother \nor Husband (For Defence-1 category, Father’s Domicile \nCertificate is Mandatory) \n✓ \n✓ \n✓ \n✓ \n✓ \n8 Caste Certificate (for all reserved category candidates) \nX \nX \n✓ \n✓ \nX \n9 Caste Validity Certificate (for all reserved category \ncandidates) # \nX \nX \n✓ \n✓ \nX \n10 Non-creamy layer Certificate valid up to 31st March 2027 # \nX \nX \nX \n✓ \nX \n11 \nOriginal Income certificate issued by Tehsildar as per DTE \ninformation brochure (stating total income of family less than 8 \nLakh) \nX \n✓ \n✓ \n✓ \n✓ \n12 EWS certificate (stating income Below 8 Lakhs) # \nX \nX \nX \nX \n✓ \n13 Gap Certificate (if applicable) \n✓ \n✓ \n✓ \n✓ \n✓ \n14 Defence / Physically Handicapped / J & K Migrant \nCertificate (If Applicable) \n✓ \n✓ \n✓ \n✓ \n✓ \n15 Copy of Aadhar Card (mandatory) \n✓ \n✓ \n✓ \n✓ \n✓ \n16 Copy of PAN Card (if available) \n✓ \n✓ \n✓ \n✓ \n✓ \n17 \nCopy of Nationalized bank passbook of students’ account \n(linked with Aadhar card) Applicable to all. (For minor, Joint \naccount with Student’s name as First name) \n✓ \n✓ \n✓ \n✓ \n✓ \n# submission of original Caste/ Tribe Validity Certificate, Non Creamy Layer Certificate, EWS Certificate as per the \ndeadline stated by SCC from time to time."
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06203",
+  "cetCode": "06203",
+  "dteCode": "06203"
+}

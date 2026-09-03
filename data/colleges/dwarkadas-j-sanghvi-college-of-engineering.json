@@ -1,0 +1,58 @@
+{
+  "id": "dwarkadas-j-sanghvi-college-of-engineering",
+  "name": "Dwarkadas J. Sanghvi College of Engineering",
+  "slug": "dwarkadas-j-sanghvi-college-of-engineering",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "DJSCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "D J SANGHVI FEES STRUCTURE 2026-27 FY BTECH.pdf",
+          "path": "/documents/dwarkadas-j-sanghvi-college-of-engineering/D J SANGHVI FEES STRUCTURE 2026-27 FY BTECH.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "D J SANGHVI FEES STRUCTURE 2026-27 FY BTECH.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

@@ -1,0 +1,68 @@
+{
+  "id": "genba-sopanrao-moze-trust-parvatibai-genba-moze-college-of-engineering-wagholi-p",
+  "name": "Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",
+  "slug": "genba-sopanrao-moze-trust-parvatibai-genba-moze-college-of-engineering-wagholi-p",
+  "location": "Wagholi, Maharashtra",
+  "city": "Wagholi",
+  "type": "Private",
+  "acronym": "GSMTPG",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/genba-sopanrao-moze-trust-parvatibai-genba-moze-college-of-engineering-wagholi-p/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/genba-sopanrao-moze-trust-parvatibai-genba-moze-college-of-engineering-wagholi-p/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06138",
+  "cetCode": "06138",
+  "dteCode": "06138"
+}

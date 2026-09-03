@@ -1,0 +1,58 @@
+{
+  "id": "jawahar-education-society-s-annasaheb-chudaman-patil-college-of-engineering-khar",
+  "name": "Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",
+  "slug": "jawahar-education-society-s-annasaheb-chudaman-patil-college-of-engineering-khar",
+  "location": "Kharghar, Maharashtra",
+  "city": "Kharghar",
+  "type": "Private",
+  "acronym": "JESSAC",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST & FEES STRUCTURE COMBINE.jpg",
+          "path": "/documents/jawahar-education-society-s-annasaheb-chudaman-patil-college-of-engineering-khar/DOCUMENTS LIST & FEES STRUCTURE COMBINE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "DOCUMENTS LIST & FEES STRUCTURE COMBINE.jpg": "IMAGE_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

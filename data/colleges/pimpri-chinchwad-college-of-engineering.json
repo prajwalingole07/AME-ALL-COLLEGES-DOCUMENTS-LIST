@@ -1,0 +1,68 @@
+{
+  "id": "pimpri-chinchwad-college-of-engineering",
+  "name": "Pimpri Chinchwad College of Engineering",
+  "slug": "pimpri-chinchwad-college-of-engineering",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "PCCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "PCCOE FEES STRUCTURE.pdf",
+          "path": "/documents/pimpri-chinchwad-college-of-engineering/PCCOE FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "PCCOE ADMISSION STEPS.pdf",
+          "path": "/documents/pimpri-chinchwad-college-of-engineering/PCCOE ADMISSION STEPS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "PCCOE FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "PCCOE ADMISSION STEPS.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

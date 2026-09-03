@@ -1,0 +1,79 @@
+{
+  "id": "g-h-raisoni-college-of-engineering-management-nagpur",
+  "name": "G H Raisoni College of Engineering & Management, Nagpur",
+  "slug": "g-h-raisoni-college-of-engineering-management-nagpur",
+  "location": "Nagpur, Maharashtra",
+  "city": "Nagpur",
+  "type": "Private",
+  "acronym": "GHRCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/g-h-raisoni-college-of-engineering-management-nagpur/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/g-h-raisoni-college-of-engineering-management-nagpur/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Caste Validity",
+    "Domicile Certificate",
+    "PAN Card",
+    "Nationality Certificate",
+    "Gap Certificate",
+    "Allotment Letter",
+    "Passport Photos",
+    "Admission Form",
+    "Eligibility Certificate"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "Admission UG - B.Tech First Year 2025-26\nDocuments Required\nSubmit following documents with Admission Form (original + Two set photocopy + 4 Colour Passport photos):\nDTE Registration Letter\nDTE allotment letter (for CAP)\nMH-CET / JEE, 2026 Score Card\nS.S.C. (Std. X) Mark sheet\nH.S.S.C. Mark sheet\nS.S.C. Diploma Certificate\nH.S.S.C. Diploma certificate\nLeaving certificate\nCaste Validity\nGap certificate if passed before 2026\nCertificate of the Indian Nationality of the candidate\nEligibility Certificate(for other than MS candidate)\nDomicile certificate\nNationality Certificate\nEnrollment form\nAny other document mentioned as per DTE\nPAN Card Photocopy\nAadhar Card Photocopy\nBank Passbook Photocopy (Aadhar linked A/C Number)\nUndertakings\nAlumini Consent Letter\nSelf Declaration for Self Attestation\nDiscipline and Conduct Rules\nIndustry Undertaking\nUndertaking for Freeship/Scholarship (only to be filled by candidates taking admission under\nCAP & applying for Freeship/ scholarship)\nUGC Anti Ragging Form - http://www.amanmovement.org/"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06155",
+  "cetCode": "06155",
+  "dteCode": "06155"
+}

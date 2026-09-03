@@ -1,0 +1,77 @@
+{
+  "id": "deogiri-institute-of-engineering-and-management-studies-aurangabad-affiliated-to",
+  "name": "Deogiri Institute of Engineering and Management Studies, Aurangabad (Affiliated to - Dr. Babasaheb Ambedkar Technological University,Lonere)",
+  "slug": "deogiri-institute-of-engineering-and-management-studies-aurangabad-affiliated-to",
+  "location": "Lonere, Maharashtra",
+  "city": "Lonere",
+  "type": "University",
+  "acronym": "DIOEAM",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/deogiri-institute-of-engineering-and-management-studies-aurangabad-affiliated-to/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/deogiri-institute-of-engineering-and-management-studies-aurangabad-affiliated-to/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "Domicile Certificate",
+    "Income Certificate",
+    "Diploma Mark Sheet",
+    "Eligibility Certificate"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "Eligibility Criteria for B. Tech\nDeogiri Institute of Engineering and Management Studies\nEligibility\nCandidate should have passed HSC or its equivalent examination with Physics and\nMathematics as compulsory subjects along with Chemistry or Biology or Biotechnology or\nTechnical Vocational subject or Electronics or Computer Science or Information\nTechnology or Informatics Practices or Agriculture or Engineering Graphics or Business\nStudies and obtained at least 45% marks (at least 40% marks in case of Backward class\ncategories, Economically Weaker Section and Persons with Disability candidates\nbelonging to Maharashtra State only) in the above subjects taken together.\nEntrance Examination Requirement\nThe candidate should have appeared in all the subjects in MHT-CET (PCM) of 2026 and\nshould have obtained a non-zero score in MHT-CET (PCM) or should have given JEE\nMains of 2026.\nCommon Documents Required for All Candidates\n1. SSC Mark Sheet\n2. SSC Certificate\n3. HSC/Diploma Mark Sheet\n4. HSC Leaving Certificate (TC)\n5. MHT-CET 2026 (PCM) or JEE (Mains 2026) Score Card\n6. Certificate of Age, Nationality and Domicile or Birth Certificate or Leaving Certificate\nshowing place of birth in State of Maharashtra\n7. Passport size Photograph\n\nAdditional Documents Required Depending on Category\nEBC / TFWS\nIncome Certificate stating that parent's\nincome is less than Rs. 8 Lakh\nEWS\nEligibility Certificate for Economically\nWeaker Section (as per CET Cell\nprescribed format)\nOBC / NT / SBC / SEBC / DTVJ\nCaste Certificate\nCaste Validity Certificate\nNon-Creamy Layer Certificate\nSC / ST\nCaste Certificate\nCaste Validity Certificate\nDefence Personnel Ward\nDefence Service Certificate\nDomicile certificate of Father/Mother\nPerson with Disability\nCertificate mentioning percentage of\ndisability (not less than 40%)\nKeep photocopies of all original documents as well as soft copy (PDF) with you."
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

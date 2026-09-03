@@ -1,0 +1,58 @@
+{
+  "id": "coep-technological-university",
+  "name": "COEP Technological University",
+  "slug": "coep-technological-university",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "University",
+  "acronym": "CTU",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "COEP PROCESS & FEES.pdf",
+          "path": "/documents/coep-technological-university/COEP PROCESS & FEES.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "COEP PROCESS & FEES.pdf": "COEP Technological University Pune \nInstructions to Candidates for Reporting and Confirmation of Admission AY-2026-27 \n \nPreparation Before Coming to the Admission Process at COEP Tech \na. If you are accepting seat allotted by CET-CELL through CAP Round, FREEZE the SEAT \nALLOTTED through candidate’s LOGIN on CET-CELL portal. \nb. Prepare the Demand Draft (DD) of appropriate amount of FEES as applicable to your Category \nfor Admission (As printed on Acknowledgement Letter received after Scrutiny). Refer FEES \nStructure on next page for AY 2026-27, also available on COEP Tech website. Demand Draft \nshould be drawn in favor of “COEP Technological University” payable at Pune. No partial \npayment is permitted. Write following on Backside of DD: (Fees Accepted only through DD) \n1. Candidate Name       2. Mobile No.        3. Application ID (EN26XX)         4. Branch Allotted \nc. Prepare TWO SETS of Photocopies of all documents that you have uploaded to CET Cell \nPortal. and bring ALL necessary Original Documents along with Original Leaving \nCertificate. \n TWO Recent Passport Size COLOUR photographs of candidate. \n  Original Living Certificate and all necessary original documents \n If you are already admitted to another Institute/University, kindly bring Original Admission \nLetter indicating list of original documents submitted and Fee Receipt issued by that \ninstitute. \n \nSteps for Admission Process \nReporting Time: 9.00 AM to 5.00 PM, on all days of Reporting. \n1. Report to Venue: 1st Floor, Main-Auditorium, South Campus, COEP Tech, Pune. \n2. Collect your Admission Process KIT: At the Entrance of Main-Auditorium, show Demand \nDraft (DD) of Fees and collect the Admission Process KIT. And Fill ALL the forms provided in \nthe KIT. \n3. At Counter No.1: Submit DD and collect the fee receipt. \n4. At Counter No. 2: Verify All-ORIGINAL Documents (which are uploaded to CET-CELL Portal) \nand confirm the admission. \n5. At Counter No. 3: Submit ALL necessary ORIGINAL Documents. \n6. At Counter No. 4: Register Entry and Collect Admission Acknowledgement Receipt. \n \nYour Admission Process is Completed! #- Welcome To COEP Tech.-# \n \n\n For Hostel admission: Online Application Form and related Information visit following link \nhttps://www.coeptech.ac.in/hostel/hostel-admissions/ \n---------------------------------------------------------------------------------------------------------- \nTo Generate Anti Ragging Online Affidavit Reference Number. Fill in all required Information and \nuse following details.   (https://antiragging.in/affidavit_university_form.php) \n \n \nNote: Please note down and preserve the reference ID Generated once you submit an anti-raging \nthe form."
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "16006",
+  "cetCode": "16006",
+  "dteCode": "16006"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "kolhapur-institute-of-technology-s-college-of-engineering-autonomous-kolhapur",
+  "name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+  "slug": "kolhapur-institute-of-technology-s-college-of-engineering-autonomous-kolhapur",
+  "location": "Kolhapur, Maharashtra",
+  "city": "Kolhapur",
+  "type": "Private",
+  "acronym": "KIOTSC",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Fees Structure 2026-27 - FY BTech.pdf",
+          "path": "/documents/kolhapur-institute-of-technology-s-college-of-engineering-autonomous-kolhapur/Fees Structure 2026-27 - FY BTech.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FY List of Required Documents.pdf",
+          "path": "/documents/kolhapur-institute-of-technology-s-college-of-engineering-autonomous-kolhapur/FY List of Required Documents.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "Fees Structure 2026-27 - FY BTech.pdf": "FY B-TECH\nSr. \nNo.\nType of FEES\nCAP-MAHA STATE ( \nMS, OMS) OPEN \nCategory\nSC & ST Category \nADMN (Tuition + \nDevp Fees- 100% \nConcession)\n  SBC, VJNT All \nStuds & \n(OBC,EWS,SEBC,E\nBC Only Girls)      \n(Tuition Fee- 100% \nConcession \nCategory) ADMN    \n(Income Limit 8 Lakhs \nfor EWS and EBC) (Non \nCreamy Layer \ncertificate for SBC, \nVJNT, OBC and SEBC)\n OBC, EWS, SEBC \n& EBC ADMN      \nOnly Boy's        \n(Tuition Fee- 50%  \nConcession \nCategory)         \n(Income Limit 8 \nLakhs for EWS and \nEBC) (Non Creamy \nLayer certificate \nfor SBC, VJNT, \nOBC and SEBC)\n TFWS ADMN \n(Tuition Fee- \n100% \nConcession)\nPMSSS,J&K & \nGOI Quota Admn\n1\nTuition Fee *\n1,06,956\n                    \n-\n                        \n-\n                            \n53,478\n                \n-\n                   \n15,000\n            \n2\nDevelopment Fee *\n16,044\n                       \n-\n                        \n16,044\n                      \n16,044\n                \n16,044\n             \n5,000\n              \n3\nOther Fees\n-\n                             \n-\n                        \n-\n                            \n-\n                      \n-\n                   \n4,000\n              \n4\nUniversity Fees\n750\n                            \n750\n                       \n750\n                           \n750\n                     \n750\n                  \n750\n                 \n1,23,750\n           \n750\n                \n16,794\n              \n70,272\n         \n16,794\n      \n24,750\n      \nBank Details :-\nA/c Name :- KIT's COLLEGE OF ENGINEERING, KOLHAPUR \nAccount Number :-  0 1 6 6 0 5 0 1 1 5 8 8\nIFSC Code :-            I C I C 0 0 0 0 1 6 6\n MICR Code :-           4 1 6 2 2 9 0 0 \nBranch :-                 Bagal Chowk, Kolhapur.\n Demand Draft Payable at \"KOLHAPUR\" in favour of  \" KIT's COLLEGE OF ENGINEERING, KOLHAPUR.\"\nKolhapur Institute of Technology's College of Engineering Kolhapur (Empowered Autonomous) \nDetail's of Fees :-  FIRST YEAR Admission  (FY- B-TECH)  Academic Year -- 2026 - 2027 (UG)\nTotal Fees 2025--2026 :-\n*Note :-  The fees are approved by the Fee Regulatory Authority (FRA) for the Academic Year 2026-27.",
+    "FY List of Required Documents.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06267",
+  "cetCode": "06267",
+  "dteCode": "06267"
+}

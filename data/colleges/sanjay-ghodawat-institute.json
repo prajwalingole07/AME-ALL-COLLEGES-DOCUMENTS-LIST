@@ -1,0 +1,68 @@
+{
+  "id": "sanjay-ghodawat-institute",
+  "name": "Sanjay Ghodawat Institute",
+  "slug": "sanjay-ghodawat-institute",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "SGI",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/sanjay-ghodawat-institute/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/sanjay-ghodawat-institute/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "Sani ay Ghodawat lnstitute\n. Engineering . Polytechnic\no DTE- 6811\nfuqi-fr -el/o4,/1o1q\nFEE STRUCTURE 2026.27\no stTqa iiqq qitrdd gR-€eqe oTfrri ar.err+uffi fq.mtdar5 (ris*n 6ts -\neruoerr) qr qarfuildqrir g)&rFrfr q$ totq-ts 6fioT gm Fum-o qrElft-inT\nqr+m-gq fu*o ??/o9/?o?q ffiaT Frdi.T ei-q-S gleTFrfr golq qr;qf,r (r{o\nUpward Revision yffi \nGtrfl aqzlT dqqfl*f, 9lffi\n. Saniay Ghodawat tnstitute Atigre, Tal-Hataknagale Dist. Kolhapur (Institute\nCode-EN6B11) Our College has received approval for the Fee Structure from the\nFee Regulatory Authority (No Upward Revision ) for the academic year 2026-27\nas per the meeting held on22.5.2025 and the details thereof are as follows-\nFRA. FEE STRUCTURE 2026-27\nSr.\nNo\nDescription\nFee\nTotal Fe€s'l\nA:iY.2025-26\n1.\nTuition Fee\n81669.00\n90000.00\n2.\nDevelopment Fee\n8331.00\n3.\nManagement Seat Fee\n90000.00\n90000.00\n4.\nNRI Seat Fee\n450000.00\n450000.00\n5.\nAgainst NRI Seat Fees\n270000.00\n270000.00\n6.\nCaution Money/Deposite (1 timeJ\n00 (Zero)\n00 (Zero)\nImportant Note:\nAll government scholarship schemes (SC/ST/NT/VJDT/SEBC/OBC/MinoriIy, etc.)\nare applicable to admitted students (fee concessions will apply)\nSection No.: 582, Atigre- 416 118, Kolhapur- Sangli Highway, Dist.: Kolhapur, Mahanashtna, lndia.\nPhone No : 0230 - 2463800, E-mail : principal@sgipolytechnic.in Website :www.sginstitute.in\n. \n,1\nSou. Sushila Danchand Ghodawat Gharitable Trust's\nqI.F/SGI/Fee Structure/?o? q-?$\n&W\n[Dr.ffiat V.Giri]\nO'*EGTOR\nSou. $ushiia Dancirand Ghodawat\n,ltr $a niay *f; [ffi''1'3!-,]f-?;,:-; ;;;*",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06811",
+  "cetCode": "06811",
+  "dteCode": "06811"
+}

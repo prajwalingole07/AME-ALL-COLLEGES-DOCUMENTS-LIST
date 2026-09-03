@@ -1,0 +1,83 @@
+{
+  "id": "nutan-maharashtra-vidya-prasarak-mandal-nutan-maharashtra-institute-of-engineeri",
+  "name": "Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",
+  "slug": "nutan-maharashtra-vidya-prasarak-mandal-nutan-maharashtra-institute-of-engineeri",
+  "location": "Talegaon, Maharashtra",
+  "city": "Talegaon",
+  "type": "Private",
+  "acronym": "NMVPMN",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/nutan-maharashtra-vidya-prasarak-mandal-nutan-maharashtra-institute-of-engineeri/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/nutan-maharashtra-vidya-prasarak-mandal-nutan-maharashtra-institute-of-engineeri/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": [
+      {
+        "label": "Fee",
+        "raw": "Rs. 7000 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 7000"
+        ]
+      },
+      {
+        "label": "Fee",
+        "raw": "Rs. 3500 per student for total sanctioned intake",
+        "amounts": [
+          "Rs. 3500"
+        ]
+      }
+    ]
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "FEES REGULATING AUTHORITY - 2026-27, Mumbai\n305, Govt. Polytechnic Building, Ali Yawar Jung Marg, Bandra (E), Mumbai - 400 051 (M.S.), INDIA\nAPPROVED FORMAT FOR COMPUTATION OF FEES FOR THE ACADEMIC YEAR 2026-\n27 FOR ENGG STREAM\n1\nName of the College/Institute:  Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Technology, Vishnupuri, Talegaon Dabhade(Station) Tal. Maval Dist\nPune\nCode:  EN6310\nStream:  ENGG\nYear:  2026-27\nLocation:  Samarth Vidya Sankul Vishnupuri Talegaon Dabhade Tal Maval Dist Pune\n2\nAcademic Year\nFee Status\nTuition Fee\nDevelopment Fee\nTotal Fee\nFee for Academic Year 2025-26\nApproved\n107826\n16174\n124000\nFee for Academic Year 2024-25\nApproved\n99382\n13118\n112500\nFee for Academic Year 2023-24\nApproved\n92315\n12185\n104500\nFee for Academic Year 2022-23\nApproved\n84295\n10705\n95000\nFee for Academic Year 2021-22\nApproved\n84295\n10705\n95000\nFee for Academic Year 2020-21\nApproved\n84444\n10556\n95000\nFee for Academic Year 2019-20\nApproved\n76786\n9214\n86000\nb) Fee Proposed by College for AY 2026-27                             \nProposal Status Y and Proposed fee for 2026-27  Rs. 144000\nC) Year of recognition by respective council/Government :\n2008\n3.\nWhether undertaking on stamp paper submitted reg. refund?\nY\n4\nComputation of final tuition fee and development fee:\nExpenditure incurred (in Rs.)\nTotal\nPer Student (divided\nby 4.8)\n4.1.1\nSalary Expenditure for 2024-25 to approved teaching /non teaching staff as per Competent Authority / University Norms.\n158403895 76083\n4.1.2\nHonorarium/Remuneration Paid to Visiting Faculty/Guest Lecturers.\n2459938\n1182\n4.1.3\nStipend paid to the students\n0\n0\n4.1.4\nTotal Salary Expenditure ( 4.1.1+4.1.2+4.1.3)\n160863833 77264\n4.2\nNon salary revenue expenditure (Rent, Interest on loan, Penalties if any legal charges and unrelated expenditure to be excluded except interest\npaid on TEQIP loan ) for 2024-25\n41602318\n19982\n4.2.1\na) Less income\n4137992\n1988\nb) Hostel expenses,\n0\n0\n4.2.2\nTotal (4.1.4 + 4.2) - (4.2.1)\n198328159 95258\n4.2.2.1 Actual Bank Interest on Working Capital Loan Amount Claimed (0) or Total interest allowable limited to 3% of 4.2.2 (5949845) whichever is\nlower\n0\n4.2.2.2 Total 4.2.2 + 4.2.2.1\n198328159 95258\n4.2.3\n10% of 4.2.2.2 for increase in cost for 2024-25\n19832816\n9526\n4.2.3.1 Equalization Factor - Duration of Course 4 Years - 4.59% of 4.2.2\n9103262\n4372\n4.3\nUsage charge for building - Regular / First Shift\nRs. 7000 per student for total sanctioned intake\n1. Usage Charges: 6000\n2. Additional Usage Charges: 1000\n3. For New Colleg Additional: 0\n4. Land/Building alloted by Gov. or Public Body: N\n13440000\n6455\nUsage charge for building - Second Shift\nRs. 3500 per student for total sanctioned intake\n0\n0\n4.4\nDepreciation on other assets at approved rates -\n8520156\n4092\n4.5\nTotal of (4.2.2.2 to 4.4)\n249224393 119704\n4.6\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(This is to exclude the Tuition Waiver Scheme (TWS) students)\n1920\nSanctioned strength in the course run in Academic Year 2024-25 (No.) - Second Shift\n(This is to exclude the Tution Waiver Scheme (TWS) students)\n0\n4.7\nActual strength in the course run in Academic Year 2024-25 (No.) - Regular / First Shift\n(Merit Quota+DSY+Management/ Institutional+NRI+EWS+Transfer)=(1622+67+305+0+88+0)\n(Excluding TFWS, J&K, and Repeaters)\n2082\nActual strength in the course run in Academic Year 2024-25 (No.) - Second Shift\n(Merit Quota+DSY+Management/ Institutional+NRI+EWS+Transfer)=(0++0+0+0+0)\n(Excluding TFWS, J&K, and Repeaters)\n0\n4.8\nControlling strength (No.)(Higher of 4.6 & 4.7) - Regular / First Shift\n2082\nControlling strength (No.)(Higher of 4.6 & 4.7) - Second Shift\n0\n4.9\nPer Student Fee (4.5/4.8)\n119704\n4.9.1\nTotal Tuition Fee (4.9 + 0 Vacancy Allowance) (0% increase due to less admissions if any)\n119704\n4.10\nDevelopment fee (12% of 4.9.1)\n14364\n4.10.1 Total fee (4.9.1 + 4.10)\n134068\n4.10.2\nCredit for accreditation/quality improvement etc\nNAAC Grade - B++(3591) / NBA Courses - 3591(42.857142857143%)/ NIRF within top 500 - N(0) / ICAR Grade- (0) /\nMCAER/Agriculture University Grade- (0) - Add = 3591\nPh.D Holder - 25.74% - Add = 718\nResearch Publications in international journals & Patents - 2.21 per faculty per year - Add = 718\nPlacement of students - 60% - Add = 718\n5745\n4.10.3 Total Development Fee (4.10 + 4.10.2-(20109)) or Limited 15% of Tuition Fee(4.9.1- (17956)) whichever is less.\n17956\n4.10.4 Total Fee (4.9.1 + 4.10.3)\n137660\n\nAdditional Income Consideration - Ref: - Point No. 4.2.1 a) Less Income\nSr No\nIncome Head\nAmount\n1\nAll Receipts other than above under whatsoever head collected\n181514\n2\nSale of assets (like old computers equipment etc)\n195923\n3\nARC Infrastructure Fee Income\n26625\n4\nStatutory fee such as fee prescribed by University other than exam fee, enrollment fee and eligibility fee.\n3059430\n5\nAdmission Cancellation Fees\n58000\n6\nAdmission / Application Form Fees\n616500\nTotal\n4137992\nDate\nPlace\nSignature and Seal of person authorised in terms of section 2 (l) of the Act with Code No.\nFOR OFFICE USE ONLY\nDate\nDisallowance:-\n1)\n2)\n3)\n4)\nPrepared by:\nChecked by (Chartered Accountant)",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06310",
+  "cetCode": "06310",
+  "dteCode": "06310"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "jspm-college-of-engineering-latur",
+  "name": "JSPM College of Engineering, Latur",
+  "slug": "jspm-college-of-engineering-latur",
+  "location": "Latur, Maharashtra",
+  "city": "Latur",
+  "type": "Private",
+  "acronym": "JCOEL",
+  "documents": {
+    "fees": {
+      "available": false,
+      "files": []
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/jspm-college-of-engineering-latur/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": false,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 0,
+    "docsCount": 1
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

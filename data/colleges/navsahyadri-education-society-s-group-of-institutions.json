@@ -1,0 +1,68 @@
+{
+  "id": "navsahyadri-education-society-s-group-of-institutions",
+  "name": "Navsahyadri Education Society's Group of Institutions",
+  "slug": "navsahyadri-education-society-s-group-of-institutions",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "NESSGO",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.jpg",
+          "path": "/documents/navsahyadri-education-society-s-group-of-institutions/FEES STRUCTURE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS REQUIRED.pdf",
+          "path": "/documents/navsahyadri-education-society-s-group-of-institutions/DOCUMENTS REQUIRED.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.jpg": "IMAGE_DOCUMENT",
+    "DOCUMENTS REQUIRED.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06632",
+  "cetCode": "06632",
+  "dteCode": "06632"
+}

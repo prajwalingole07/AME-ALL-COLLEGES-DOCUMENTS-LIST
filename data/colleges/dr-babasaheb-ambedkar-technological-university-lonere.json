@@ -1,0 +1,68 @@
+{
+  "id": "dr-babasaheb-ambedkar-technological-university-lonere",
+  "name": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+  "slug": "dr-babasaheb-ambedkar-technological-university-lonere",
+  "location": "Lonere, Maharashtra",
+  "city": "Lonere",
+  "type": "University",
+  "acronym": "DBATUL",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/dr-babasaheb-ambedkar-technological-university-lonere/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/dr-babasaheb-ambedkar-technological-university-lonere/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "03033",
+  "cetCode": "03033",
+  "dteCode": "03033"
+}

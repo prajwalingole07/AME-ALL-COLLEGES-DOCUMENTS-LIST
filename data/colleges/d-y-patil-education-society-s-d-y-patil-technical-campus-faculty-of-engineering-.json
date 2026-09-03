@@ -1,0 +1,68 @@
+{
+  "id": "d-y-patil-education-society-s-d-y-patil-technical-campus-faculty-of-engineering-",
+  "name": "D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur",
+  "slug": "d-y-patil-education-society-s-d-y-patil-technical-campus-faculty-of-engineering-",
+  "location": "Talsande, Maharashtra",
+  "city": "Talsande",
+  "type": "Private",
+  "acronym": "DYPESS",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.png",
+          "path": "/documents/d-y-patil-education-society-s-d-y-patil-technical-campus-faculty-of-engineering-/FEES STRUCTURE.png",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.jpg",
+          "path": "/documents/d-y-patil-education-society-s-d-y-patil-technical-campus-faculty-of-engineering-/DOCUMENTS LIST.jpg",
+          "type": "documents",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.png": "IMAGE_DOCUMENT",
+    "DOCUMENTS LIST.jpg": "IMAGE_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06780",
+  "cetCode": "06780",
+  "dteCode": "06780"
+}

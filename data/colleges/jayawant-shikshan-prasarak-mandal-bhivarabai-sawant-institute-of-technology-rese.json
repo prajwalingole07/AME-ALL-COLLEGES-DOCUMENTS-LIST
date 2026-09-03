@@ -1,0 +1,68 @@
+{
+  "id": "jayawant-shikshan-prasarak-mandal-bhivarabai-sawant-institute-of-technology-rese",
+  "name": "Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",
+  "slug": "jayawant-shikshan-prasarak-mandal-bhivarabai-sawant-institute-of-technology-rese",
+  "location": "Wagholi, Maharashtra",
+  "city": "Wagholi",
+  "type": "Private",
+  "acronym": "JSPMBS",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/jayawant-shikshan-prasarak-mandal-bhivarabai-sawant-institute-of-technology-rese/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LSIT.pdf",
+          "path": "/documents/jayawant-shikshan-prasarak-mandal-bhivarabai-sawant-institute-of-technology-rese/DOCUMENTS LSIT.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LSIT.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06311",
+  "cetCode": "06311",
+  "dteCode": "06311"
+}

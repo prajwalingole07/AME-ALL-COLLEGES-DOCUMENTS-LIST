@@ -1,0 +1,76 @@
+{
+  "id": "bharati-vidyapeeth-s-college-of-engineering-lavale-pune",
+  "name": "Bharati Vidyapeeth's College of Engineering,Lavale, Pune",
+  "slug": "bharati-vidyapeeth-s-college-of-engineering-lavale-pune",
+  "location": "Lavale, Maharashtra",
+  "city": "Lavale",
+  "type": "Private",
+  "acronym": "BVSCOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/bharati-vidyapeeth-s-college-of-engineering-lavale-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/bharati-vidyapeeth-s-college-of-engineering-lavale-pune/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Aadhaar",
+    "Migration Certificate",
+    "Nationality Certificate",
+    "Gap Certificate"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "Counselling Letter\nProof of date of birth\n• SSC Certificate\n• School/College Leaving Certificate\n• Domicile or Nationality Certificate\nCertificate  from the school Principal / Headmaster \nConﬁrming that you have studied in India for Grades 11 and 12.\n10th Standard Mark Sheet\n12th Standard Mark Sheet\nCollege Leaving Certiﬁcate / Transfer Certiﬁcate\nFrom the last institution attended\nMigration Certificate\nDomicile or Nationality Certificate\nAadhaar Card \nOf both the students and parents\nGap Certificate \nRequired if there is an educational gap after Grade 12\nConduct and Character Certificate \nIssued by a responsible authority\nCaste certificate \nIssued by the competent authority (for reserved category candidates only)\nCaste validity certificate\nIssued by the competent authority (for reserved category candidates)\nMedical Fitness Certificate \nTwo Recent Passport-Size Photographs \nWrite your name on the back of each photo\nAuthority Letter \nRequired if the candidate is unable to attend in person\nPlease bring the following documents (originals with photocopies) for the admission process:\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\nList of Documents Required\n*Affidavit (Annexure III Format)\nTo be signed by the candidate and countersigned by the parent/guardian before a \nNotary Public on Rs.100 stamp paper"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06796",
+  "cetCode": "06796",
+  "dteCode": "06796"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "dr-d-y-patil-college-of-engineering-innovation-talegaon",
+  "name": "Dr. D.Y.Patil College Of Engineering & Innovation,Talegaon",
+  "slug": "dr-d-y-patil-college-of-engineering-innovation-talegaon",
+  "location": "Talegaon, Maharashtra",
+  "city": "Talegaon",
+  "type": "Private",
+  "acronym": "DDYPCO",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Fee structure.pdf",
+          "path": "/documents/dr-d-y-patil-college-of-engineering-innovation-talegaon/Fee structure.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "Fee structure.pdf": "Fee structure\nAdmission\nDr. D.Y. PATIL COLLEGE OF ENGINEERING & INNOVATION\nTalegaon, Varale, PIN 410 507\nAcademic Year 2026-27 (FY B. Tech)\nSr.\nParticular\nOpen\n(MAH\nState)\nOpen\n(OMS)\nOBC /\nEBC /\nEWS *\nSC **/\nST *\nVJNT*/\nSBC*/\nTFWS &\nGirls@\n1\nTuition Fee *\n1,01,739\n1,01,739\n50,870\n0\n0\n2\nDevelopment Fee *\n15,261\n15,261\n15,261\n0\n15,261\n \n  \n                                Total\n(1+2) Rs.\n1,17,000\n1,17,000\n66,131\n0\n15,261\n3\nTo be Received from\nSWOP *\n0\n0\n50,869\n1,17,000\n1,01,739\n4\nSub-Total Rs.\n1,17,000\n1,17,000\n1,17,000\n1,17,000\n1,17,000\n1/3\n\n 5\nS.P. Pune University\nFees\n \n \n \n \n \ni) UG Eligibility Form Fee\n#\n50\n50\n50\n50\n50\nii) UG Eligibility Fee #\n600\n1100\n600\n600\n600\niii) UG Gymkhana Fee $\n50\n50\n50\n50\n50\niv) UG Student Welfare\nFund $\n40\n40\n40\n40\n40\nv) UG Medical\nExamination Fee $\n10\n10\n10\n10\n10\nvi) UG Development Fee\n$\n50\n50\n50\n50\n50\nvii) UG Prorata\nAshwamegh $\n20\n20\n20\n20\n20\nviii) UG Disaster\nManagement $\n10\n10\n10\n10\n10\nix) UG Computerization\nFee $\n25\n25\n25\n25\n25\nx) UG Registration fee $\n25\n25\n25\n25\n25\nxi) UG Student Safety\nInsurance $\n20\n20\n20\n20\n20\nxii) UG Sports Fund (FIT\nIndia )\n50\n50\n50\n50\n50\nxiii) UG NSS Fund $\n10\n10\n10\n10\n10\nxiv) UG Corpus fund $\n4\n4\n4\n4\n4\nxv) Local Div.sports com.\nProrata $\n9\n9\n9\n9\n9\n6\n           \n                                  Total\nRs\n973\n1,473\n973\n973\n973\n2/3\n\n7\n                   Grand Total\nFee Rs.\n(Fee to be received from\nStudent)\n1,17,973\n1,18,473\n67,104\n973\n16,234\nPayment\nMode\nERP Payment Gateway / Net Banking / Debit Card / Credit Card /\nDemand Draft\nNEFT/RTGS\nDetails\nAccount Name : Dr. D.Y. Patil College of Engineering & Innovation\nBank Name : HDFC Bank / Talegaon Dabhade Branch, Pune\nA/c No : 50200015367142\nIFSC  : HDFC0001797\n* Only Development Fee & SPPU Fee is applicable to TFWS students. Note: Tuition Fee\nand Development Fee Subject to changes from Fee Regulating Authority (FRA) of Gov.\nof Maharashtra regarding increase in fees.\n3/3"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "06834",
+  "cetCode": "06834",
+  "dteCode": "06834"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "indira-college-of-engineering-management-pune",
+  "name": "Indira College of Engineering & Management, Pune",
+  "slug": "indira-college-of-engineering-management-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "ICOEMP",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/indira-college-of-engineering-management-pune/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS REQUIRED.pdf",
+          "path": "/documents/indira-college-of-engineering-management-pune/DOCUMENTS REQUIRED.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Caste Validity"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS REQUIRED.pdf": "INTAKE\nCollege Code EN 6179\n7\n*NB: The rules & regulation with respect to admission to various courses & fees for the respective courses are \ngoverned by governmental agencies & may change from time to time. The prevalent rules will be binding \nboth on management & students.\nADMISSIONS @ ICEM\nŸ\nJEE Main 2025 / MHT-CET 2025 / Qualifying \nExamination Score Card\nth\nŸ\n12 Standard/CBSE/Equivalent Exam \nMark sheet\nth\nŸ\n10 Standard/CBSE/Equivalent Exam \nMark sheet\nŸ\nMigration Certiöcate/Transfer Certiöcate\nŸ\nProof of Indian Nationality / Domicile Certiöcate\nŸ\nCaste Certiöcate (If applicable)\nŸ\nCaste Validity (If applicable)\nŸ\nNon - Creamy Layer Certiöcate\nŸ\nKindly check website www.indiraicem.ac.in \nfor the tuition fee of all courses.\nŸ\nScholarship for SC, ST, OBC, NT, VJNT, EBC and \nEWS available as per GOM rules.\nŸ\n100% tuition fee and exam fee exempt for \nEWS, SEBC and OBC Girls students\nŸ\nICEM Scholarship is available for meritorious \nstudents governed by IGI group. To avail the \nspecial scholarship oﬀered by the Institute \nplease contact the mobile number \n02114661537\nSCHOLARSHIP\nFEES STRUCTURE\nDOCUMENTS REQUIRED WHILE\nTAKING ADMISSION\nFor First Year / Direct Second Year \nEngineering / Integrated BBA/MBA \nIntegrated BCA/MCA\nRegulation of admissions and admission \nprocess visit the following websites: \nhttp://www.dtemaharashtra.gov.in \nhttp://cetcell.mahacet.org \nADMISSION PROCESS\nFor First Year / Direct Second Year \nEngineering / MCA / MBA Admissions \nPlease visit the following page:\nhttp://cetcell.mahacet.org/ \nELIGIBILITY \nCOURSES \nINTAKE\nB.Tech Computer Engineering \n150 \nB.Tech Mechanical Engineering \n60 \nB.Tech Information Technology \n60 \nB.Tech Artiöcial Intelligence & Data Science (AI-DS)  \n60 \nB. Tech Electronics & Telecommunication Engineering (EnTC) \n30\nM.Tech Mechanical Engineering \n12 \nM.Tech Computer Engineering \n12 \nIntegrated BBA / MBA\n60\nIntegrated BCA / MCA\n60 \nMBA\n60 \nMCA\n60"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06179",
+  "cetCode": "06179",
+  "dteCode": "06179"
+}

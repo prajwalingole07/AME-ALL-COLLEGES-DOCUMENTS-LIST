@@ -1,0 +1,58 @@
+{
+  "id": "anantrao-pawar-college-of-engineering-research-pune",
+  "name": "Anantrao Pawar College of Engineering & Research, Pune",
+  "slug": "anantrao-pawar-college-of-engineering-research-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "APCOER",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES-Structure.pdf",
+          "path": "/documents/anantrao-pawar-college-of-engineering-research-pune/FEES-Structure.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES-Structure.pdf": "NBA \nNATIONAL BOARD \n(MECHANICAL & CIMIL) \nSr. No. \n1 \n2 \n4 \n5 \n6 \nSr. No. \n1 \n2 \n4 \n5 \n6 \n3 \nManagement Seat (Tuition Fee) \nSr. No. \n1 \n2 \n3 \n4 \n5 \nAKHIL BHARATIYA MARATHA SHIKSHAN PARISHAD'S \nANANTRAO PAWAR COLLEGE OF ENGINEERING & RESEARCH \n6 \nWeb.: http://www.abmspcoerpune.org \nEmail : office@abmspcoerpune.org \nApproved by AlCTE & Govt. of Maharashtra, Affiliated to Savitribai Phule Pune University \nISO \nCERTIFIED \nTuition Fee \nFee Structure Approved by FRA For A.Y. 2026-27 \nBE Fee Details for Academic Year 2026-27 \n|Development fee \nNRI Seat Fees \nManagement Seat (Devlopment Fee) \nAgainst NRI Seat Fees \n(Refundable) \nDescription \nTuition Fee \nCaution Money/Deposite (1 Time) \n| Development fee \nNRI Seat Fees \nDTE CODE :- EN 6794, AISHE CODE :- C-41484 \nSavitribai Phule Pune University id : CEGP019670 \nAccredited By NAAC With 'A' Grade \n|Management Seat Fees \n(Refundable) \nTuition Fee \n|Against NRI Seat Fees \nSr. No. 103, Parvati, Pune - 411 009. \nTel.: 020-24218959/3929 \nDescription \nCaution Money/Deposite (1 Time) \nNRI Seat Fees \n|Development fee \n(Payable at Pune): \nME Fee Details for Academic Year 2026-27 \nManagement Seat Fees \nDescription \nAgainst NRI Seat Fees \nCaution Money/Deposite (1 Time) \n(Refundable) \n|DD Should be drawn on the name of \nFees \nPune \nUey \n76,620.00 \n10,880.00 \nMCA \nFee Details for Academic Year 2026-27 \n229,860.00 \n10,880.00 \n3,000.00 \n-\nFees \n51,754.00 \n7,246.00 \n3,000.00 \nFees \n83,636.00 \n8,364.00 \n3,000.00 \nTotal Fee \nPrincipal \n87,500.00 \n240,740.00 \nTotal Fee \n3,000.00 \nA \nNAAC \n59,000.00 \nTotal Fee \n3,000.00 \n|Above mentioned fees are approved by Fees Regulatory Authority as per meetings dated \n|20.05.2026, 21.05.20269.05.2025 \n92,000.00 \n3,000.00 \nABMS Parishad's Anantrao Pawar College \nof Engineering and Research \nAnantrao Pawar Coliege of Enginering,a \nBA &Research, Parvatl, Pune .9 \nPUNE"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "06794",
+  "cetCode": "06794",
+  "dteCode": "06794"
+}

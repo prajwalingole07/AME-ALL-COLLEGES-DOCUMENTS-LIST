@@ -1,0 +1,68 @@
+{
+  "id": "government-college-of-engineering-research-avasari-khurd",
+  "name": "Government College of Engineering & Research, Avasari Khurd",
+  "slug": "government-college-of-engineering-research-avasari-khurd",
+  "location": "Avasari, Maharashtra",
+  "city": "Avasari",
+  "type": "Government",
+  "acronym": "GCOERA",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/government-college-of-engineering-research-avasari-khurd/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FORM FILLING BEFORE INSTITUTE VISIT.pdf",
+          "path": "/documents/government-college-of-engineering-research-avasari-khurd/FORM FILLING BEFORE INSTITUTE VISIT.pdf",
+          "type": "forms",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "FORM FILLING BEFORE INSTITUTE VISIT.pdf": "Government College of Engineering & Research, Avasari Khurd \n \nFILL THIS APPLOCATION FORM BEFORE INSTITUTE REPORTING \n \n \nhttps://www.gcoeara.ac.in/report-admission"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "06004",
+  "cetCode": "06004",
+  "dteCode": "06004"
+}

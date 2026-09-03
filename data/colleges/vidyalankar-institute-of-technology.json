@@ -1,0 +1,77 @@
+{
+  "id": "vidyalankar-institute-of-technology",
+  "name": "Vidyalankar Institute of Technology",
+  "slug": "vidyalankar-institute-of-technology",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "VIOT",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "VIDYALANKAR WADALA FEES STRUCTURE.pdf",
+          "path": "/documents/vidyalankar-institute-of-technology/VIDYALANKAR WADALA FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        },
+        {
+          "fileName": "VIDYALNKAR WADAL DOC LIST AND FEES PAYMENT.pdf",
+          "path": "/documents/vidyalankar-institute-of-technology/VIDYALNKAR WADAL DOC LIST AND FEES PAYMENT.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "VIDYALANKAR WADALA ADMISSION PROCESS.pdf",
+          "path": "/documents/vidyalankar-institute-of-technology/VIDYALANKAR WADALA ADMISSION PROCESS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "VIDYALANKAR WADALA FEES STRUCTURE.pdf": "SCANNED_DOCUMENT",
+    "VIDYALNKAR WADAL DOC LIST AND FEES PAYMENT.pdf": "SCANNED_DOCUMENT",
+    "VIDYALANKAR WADALA ADMISSION PROCESS.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 3,
+    "feesCount": 2,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

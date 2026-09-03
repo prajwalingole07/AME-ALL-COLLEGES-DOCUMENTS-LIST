@@ -1,0 +1,231 @@
+{
+  "id": "government-college-of-engineering-karad",
+  "name": "Government College of Engineering, Karad",
+  "slug": "government-college-of-engineering-karad",
+  "location": "Karad, Maharashtra",
+  "city": "Karad",
+  "type": "Government",
+  "acronym": "GCOEK",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "GCE KARAD FEES STRUCTURE.pdf",
+          "path": "/documents/government-college-of-engineering-karad/GCE KARAD FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "GCE KARAD DOCUMENT LIST.pdf",
+          "path": "/documents/government-college-of-engineering-karad/GCE KARAD DOCUMENT LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "GCE KARAD ADMISSION FLOWCHART.pdf",
+          "path": "/documents/government-college-of-engineering-karad/GCE KARAD ADMISSION FLOWCHART.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        },
+        {
+          "fileName": "GCE KARAD ADMISSION PROCESS.pdf",
+          "path": "/documents/government-college-of-engineering-karad/GCE KARAD ADMISSION PROCESS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        },
+        {
+          "fileName": "KARAD FE & DSE admission schedule and imp Docs 2026-27.pdf",
+          "path": "/documents/government-college-of-engineering-karad/KARAD FE & DSE admission schedule and imp Docs 2026-27.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": [
+      {
+        "label": "from 2018-19 onwards the amount of \"Other Fees\" (",
+        "raw": "from 2018-19 onwards the amount of \"Other Fees\" (Rs.26,000/-)",
+        "amounts": [
+          "Rs.26,000"
+        ]
+      },
+      {
+        "label": "onwards the amount of \"Other Fees\" (",
+        "raw": "onwards the amount of \"Other Fees\" (Rs.26.000",
+        "amounts": [
+          "Rs.26"
+        ]
+      },
+      {
+        "label": "Other Fee",
+        "raw": "Category students, from 2018·19 onwards the amount of \"Other Fees\" (Rs 26,0001·) IS not sancnoned",
+        "amounts": [
+          "Rs 26,0001"
+        ]
+      },
+      {
+        "label": "Other Fee",
+        "raw": "Category students. from 2018-19 onwards the amount of \"Other Fees\" (Rs 26.0001-) IS 1101sanctioned",
+        "amounts": [
+          "Rs 26"
+        ]
+      },
+      {
+        "label": "category, Other Fee amounting",
+        "raw": "category, Other Fee amounting Rs 26,0001- when received from Social Welfare Department.",
+        "amounts": [
+          "Rs 26,0001"
+        ]
+      },
+      {
+        "label": "of \"Other Fees\" (",
+        "raw": "of \"Other Fees\" (Rs.26,000/-)",
+        "amounts": [
+          "Rs.26,000"
+        ]
+      },
+      {
+        "label": "Other Fee",
+        "raw": "Category students, from 2018·19 onwards the amount of \"Other Fees\" (Rs.26,OOO/·) is nOIsanctioned",
+        "amounts": [
+          "Rs.26,"
+        ]
+      },
+      {
+        "label": "category, Other Fee arncnnnng",
+        "raw": "category, Other Fee arncnnnng Rs. 26,000/. when received from Social Welfare Department, \" will refund 10students",
+        "amounts": [
+          "Rs. 26,000"
+        ]
+      },
+      {
+        "label": "onwards the amount of \"Other Fees\" (",
+        "raw": "onwards the amount of \"Other Fees\" (Rs.26,000/-)",
+        "amounts": [
+          "Rs.26,000"
+        ]
+      },
+      {
+        "label": "Other Fee",
+        "raw": "Category students, from 2018-19 onwards the amount of \"Other Fees\" (Rs.26,000/-)",
+        "amounts": [
+          "Rs.26,000"
+        ]
+      },
+      {
+        "label": "from 2018-19 onwards the amount of \"Other Fees\" (",
+        "raw": "from 2018-19 onwards the amount of \"Other Fees\" (Rs.26,OOO/·) is nOIsanctioned",
+        "amounts": [
+          "Rs.26,"
+        ]
+      },
+      {
+        "label": "onwards the amount of \"Other Fees\" (",
+        "raw": "onwards the amount of \"Other Fees\" (Rs 26,000/·) ISnot sencncned",
+        "amounts": [
+          "Rs 26,000"
+        ]
+      },
+      {
+        "label": "calegoty, Other Fee arnounung",
+        "raw": "calegoty, Other Fee arnounung Rs 26,000/· when received from SOCIalWelfare Department,",
+        "amounts": [
+          "Rs 26,000"
+        ]
+      },
+      {
+        "label": "Other Fee",
+        "raw": "Category students, from 2018-19 onwards the amount of \"Other Fees\" (Rs.26,0001-)",
+        "amounts": [
+          "Rs.26,0001"
+        ]
+      },
+      {
+        "label": "category, Other Fee amounting",
+        "raw": "category, Other Fee amounting Rs. 26,0001- when received from Social Welfare Department, it will refund to students.",
+        "amounts": [
+          "Rs. 26,0001"
+        ]
+      }
+    ]
+  },
+  "requiredDocuments": [
+    "CET Score Card",
+    "Caste Certificate",
+    "Caste Validity",
+    "EWS Certificate",
+    "Domicile Certificate",
+    "Migration Certificate",
+    "Income Certificate",
+    "Gap Certificate",
+    "Orphan Certificate"
+  ],
+  "admissionProcess": [
+    "1. Clerk verify the admission documents",
+    "2. Clerk will enter the basic details of",
+    "3. Student get the Registration No. &",
+    "5. Pay the admission fee through",
+    "6. Librarian will take student’s",
+    "9. Student collect the ID Card",
+    "7. Officer confirm admission in",
+    "10. Student must visit the institute’s website www.gcekarad.ac.in & MIS portal https://mis.gcekarad.ac.in regularly for hostel admission merit list, latest",
+    "1. |ÉlÉ¨É ´É¹ÉÇ ¤ÉÒ.]äõEò/B¨É.]äõEò/B¨ÉºÉÒB +ÉÊhÉ lÉä]õ ÊuùiÉÒªÉ ´É¹ÉÇ ¤ÉÒ.]äõEò ¨ÉvªÉä |É´Éä¶É Ê¨É³ýÉ±Éä±ªÉÉ Ê´ÉtÉlªÉÉÈxÉÒ |É´Éä¶É ÊxÉ¶SÉÒiÉ Eò®úhÉä",
+    "2. Ê´ÉtÉlªÉÉÈxÉä Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É Ê±É{ÉÒEòÉEòbÚ÷xÉ ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú ¨ÉvªÉä |ÉÉlÉÊ¨ÉEò º´É¯û{ÉÉSÉÒ ¨ÉÉÊ½þiÉÒ ¦É¯ûxÉ",
+    "3. Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É Ê±É{ÉÒEò |ÉÉlÉÊ¨ÉEò º´É¯û{ÉÉSÉÒ ¨ÉÉÊ½þiÉÒ ¦É®ú±ªÉÉxÉÆiÉ®ú B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú uùÉ®äú BEò ®úÊVÉº]Åäõ¶ÉxÉ xÉÆ¤É®ú ´É",
+    "4. Ê´ÉtÉlªÉÉÈxÉä ºÉnù®ú ®úÊVÉº]Åäõ¶ÉxÉ ´É {ÉÉºÉ´ÉbÇ÷ uùÉ®äú ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+® (https://mis.gcekarad.ac.in) ¨ÉvªÉä ±ÉÉìMÉÒxÉ",
+    "5. Ê´ÉtÉlªÉÉÈxÉÒ <Æ]õ®úxÉä]õ ¤ÉìEòÓMÉuùÉ®äú +lÉ´ÉÉ Gäòb÷Ò]/bä÷¤ÉÒ]õ EòÉbÇ÷ ´ÉÉ{É°üxÉ ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+® ¨ÉvÉÒ±É ±ÉÉìMÉÒxÉuùÉ®äú",
+    "6. |É´Éä¶É ¡òÒ ªÉ¶Éº´ÉÒ®úÒiªÉÉ ¦É®ú±ªÉÉxÉÆiÉ®ú Ê´ÉtÉlªÉÉÈxÉä OÉÆlÉÉ±ÉªÉÉ¨ÉvªÉä ¡òÉä]õÉä ´É ºÉ½þÒSÉÉ xÉ¨ÉÖxÉÉ näùhÉä +É´É¶ªÉEò +É½äþ.",
+    "7. Ê´ÉtÉlªÉÉÈxÉä B+É®úºÉÒ +ÊvÉEòÉ­ªÉÉÆEòbÚ÷xÉ +ÉìxÉ±ÉÉ<ÇxÉ |É´Éä¶É ÊxÉ¶SÉÒiÉÒEò®úhÉ Eò¯ûxÉ PªÉÉ´Éä. |É´Éä¶ÉÉSÉä +ÉìxÉ±ÉÉ<ÇxÉ ÊxÉ¶SÉÒiÉÒEò®úhÉ ZÉÉ±ªÉÉxÉÆiÉ®ú",
+    "8. ´É®úÒ±É |É´Éä¶É |ÉÊGòªÉÉ {ÉÖhÉÇ Eäò±ªÉÉxÉÆiÉ®ú Ê´ÉtÉlªÉÉÈxÉä OÉÆlÉÉ±ÉªÉÉiÉ ¦Éä]õ näù>ðxÉ +É{É±Éä +Éä³ýJÉ{ÉjÉ |ÉÉ{iÉ Eò°üxÉ PªÉÉ´Éä.",
+    "9. Ê´ÉtÉlªÉÉÇxÉä Ê¶É´ÉÉVÉÒ Ê´ÉtÉÊ{É`öÉSÉÉ |ÉÉjÉiÉÉ ¡òÉì¨ÉÇ ¦É®úhªÉÉºÉÉ`öÒ Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É |ÉÉjÉiÉÉ Ê´É¦ÉÉMÉÉºÉ ¦Éä]õ tÉ´ÉÒ.",
+    "10. Ê´ÉtÉlªÉÉÇxÉä ºÉÆºlÉäSÉä ºÉÆEäòiÉ ºlÉ³ý"
+  ],
+  "extractedText": {
+    "GCE KARAD FEES STRUCTURE.pdf": "Government College of Engineering, Karad\n( An autonomous\ninstitute\nof Govt. of Maharashtra\n)\nFee Structure\nfor First Year B.Tech. - 2026-27\nSr.\nParticulars\nDpen/Defence/S\nEBC/EWSI\nEBC/EWSI\nTfWS\nSC (Male)\nSC (Female)\nST (Mille &\nVJDT/NTII NT21\nVJDTI/\\ 1\"11/\\ 1\"1I\nNo.\nTCirTC\n(Male\n(~I.le)lneome\n(Female) (NCL\nFemnte]\n/\\TJ/OUCI\n/\\TJ/OBCI,UCISEUC\nIFemale)\nbelow 8 Lakh,\n\".\",.fiooii>i3lT\nSUCISEBC(~I.I')\n(1\"11101,) C'CL *,-\n\"\"\"\"\"\"'\"'-\n(I'CL*'·_\n.... ~~~\n......... \"\"\"\"\"\"\"\nTo Be Recived\nTo Be\nTo Be\nTo Be\nTo Be Recived\nTo Be Recivcd\nI\nTuilion Fee\n15000\n7500\nfrom Govt,\n0\nRecived\nRecived from\nRecived\nfrom\nfrom Govt,\nfrom Govt.\nfrorn Govt.\nGo\"\nGovt.\nTo Be\nTo Be\nTo Be\n2\nDcvelopmeru\nFee\n39850\n39850\n39850\n39850\nRecived\nRecived from\nRecived\nfrom\n39850\n39850\nfrom Govt.\nGov!.\nGovt.\nTo Be\nTo Be\nTo Be\n3\nOther Fee\"\n26000\n26000\n26000\n26000\nRecived\nReciv ed from\nRecived\nfrom\n26000\n26000\nfrom Govt.\nGow,\nGovl.\n4\nCMD (Refundable)\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n5\nIdentity Card\n100\n100\n100\n100\n100\n100\n0\n100\n100\n6\nAlumini Fee\n125\n125\n1~5\n125\n125\n125\n0\n125\n125\n7\nInsurance Fee\n701\n701\n701\n701\n701\n701\n0\n701\n701\n8\nUniversity\nFee\n386\n386\n386\n386\n386\n386\n0\n386\n386\n9\nISTE Fee\n295\n295\n295\n295\n295\n295\n0\n295\n295\nTo Be Recived\nToBe\nTo Be Recived\nI\n10\nExamination\nFee\n2000\n2000\n2000\n2000\nRecived from\n0\n2000\nfrom Govt.\nGovt.\nfrom Govl.\nII\nLeavina Cenificate\nFee\n50\n50\n50\n50\n50\n50\n0\n50\n501\nTot81-\n85507\n78007\n68507\n70507\n4657\n2657\n1000\n70507\n68507\n• Eligibility\nFee Extra\nHome University\nAll Open & Category\nStudent\nOther\nUniversity\nAll Open & Category\nStudent\nI\nRs.310/-\nRs. SIO/-\nNote:\nI. Concession\nholders of Defence/PTC/STC\nstudents have to pay full fee at the time of admission. TI,e fees rna) set refunded condition\nto sanction\nfrom sanctioning\nauthority,\n2. In case, if validity, creamy\nlayer (as applicable)\nis nOI submitted\nat ihe time of admission,\nstudent have 10 pay full fees compulsorily.\nReimbursement\ncan be claimed\nafter\nsubmission\nof the required documents\nduring the duration of course and subject to the approval\nfrom concerned\nauthority\nfor the same.\n3. Examination\nfee for backlog courses 10 be paid separately\nas per number of courses need 10 be appear.\n4. For SC.ST\nCategory candidates.\nthe scheme / mode of concessions,\nscheme of scholarship\n(if any) is applicable\nfor eligible\ncandidates.\ne.g. tuition & other fees announced\nby\nthe Central\nI State Government.\nThese candidates\nwill get only that amount of waiver as notified\nin the circulars\nissued b) the Social welfare Department\nfrom time to time.\nsubject\nto fulfillment\nof norms & conditions\nlaid down by Social welfare Department.\n5. In case of B.Tech OBC/v JNT/SBC/SEBC\nCategory students,\nfrom 2018-19 onwards the amount of \"Other Fees\" (Rs.26,000/-)\nis not sanctioned\nfrom the Government,\nhence this\npan should be paid during the admission\nprocess Registration,\n6. For VJNTINTIINT2INTJ/OBClSBClSEBC\ncategory.\nOther Fee amounting\nRs. 26,000 - \"hen\nreceived from Social Welfare Department,\nit will refund to students.\n7. Government\nScholarship\n1 Freeships against fees in case of reserved category students\nis only applicable\nwhose admission\ngel confirmed\nthrough \"CAP rounds\" only. There is NO\nI\nscholarship\nprovision by the Social welfare Department\nany category students\nadmitted\nthrough \"SpOI Round\".\n8. The fec structure\nis provisional.\nAfter the approval from Government\nof Maharashtra\nthe reclined\nappro, ed fee structure\nwill be applicable.\nI\n9. As per G.R. of Go, ernment of vlaharashtm (for VJl\\·I. DT.OBC.SBC.SEBC) Classes Welfare Department Corrigendum '\\0. Shi'rutti-2023, File No. 13H,ducation-1\ndated 20109n024. \"Non-\nI\nCreamy\nLayer cerrificate\nis mandatory\nfor the tuition\nand examination\nfee reimbursement\nscheme\napplicable\nIO students\nbelonging\nto that Categories.\nI\n10. For EBC, SC,ST category students\n- Whenever\nthe scholarship\namount received form Social Welfare Department\n/ Concern Government\ndeparernents\nstudent have to return this\nI\namount\nlO College within 7 days.\nI\nII. Students\nbelonging\nto EBC and EWS Category can apply for educational\nconcessions\nthrough the Chhatrapati\nRajarshi Shahu Maharaj Scholarship\nScheme and\nDr.\n!\nPanjabrao\nDeshmukh\nHostel Maintenance\nAllowance\nScheme.\nI\n12.Changes\n10 university\nfces will be made\nin accordance\nwith circulars\nissue-d by the university\nfrom time to time.\n13. As per the Government\nof Maharashtra.\nHigher\nand Technical\nEducation\nDepartment\nGovernment\nResolution\nNo. Shishya\\ru-2024/Filc\nNo.\nIOSrranshi-41\ndated\n08 July 2024.\nlor female\nstudents\nI\n14 The admission\nfees for Scheduled\nTribe students (male and female) will be applicable\nin accordance\nwith the orders of the Regional\nOffice OTE\nPune.\n\"Other\nFee Details\nShivs]!\nUniversiry\nFee Det3ils\nI\nGvmkhana Fee\n1300\nI\n3!l>\"l1mq;\n100\n2\nGathering\nFee\n1300\n2\n3!<IllU \"\"\"\"\n36\n3\nLubonnory\nFee\n9100\n3\nm.m'!!\"'\"\n5S\n4\nTPO\n1820\n4\n\"\"\"~~\n10\nj\nInternet\nFee.\n5200\n5\n~~~\n100\n~\n6\nLibra\" Fee\n7280\n6\ni·~~\n50\nTotal-\n26000\n7\nu$ .00 .mr-rr\n10\n'lU'~PAL\n8\n~'\"'!!\"'\"\n25\nTotol-\n386\nGOYt.~\"\"\"'1\n,KlrJd.\nThe above\ntee structure\nis applicable\nsubject\nto approvnt\nof Board of Management.\nNote\n: All) chnnge\nill the prescribed\nfee AS directed\nby OTE I noM\nWill\nbe uppllcub!e\nI mnndntury\n10 life students.\n~11=84itQ ~~\nq6'~\"\"~,\n~\n~~\n(6:-4L1'\n~~- '9 JUN 2Cm\n\nGovernment\nCollege of Engineering,\nKarad\n(An\nautonomous\ninstitute\nof Govt. of Maharashtra\n)\nFee Structure\nfor Direct Second Year B.Tech. - 2026-27\nSr.\nPnrttculars\nOpen/OefenceiS\nEBC/EWS/\nEBC/EWS/\nTrWS\nSC(MAle)\nSC (Female)\nST\nVJDTINTI/NTl/\nVJIJT/NTI/\n\"'1'2/\nNo.\nTC/PTC (Male\n(Male)lncome\n(Female) (NCL\n(Mllle&\nNTJ/OOCI\nNTJ/OIICl\nSOC/SEllC\n/Female)\nbelow 8 Lakh,\n*,-~\nFemale}\nSOCISESC\n(~llllc)\n(Femule)\n(NCL *-\n'\"\"\"\"\"'~)\n(I\\CL'1t-<-\"\"'\"\"'\"\nfirn:imlff~\n~~)\n\"\"\"\"\"\"\"l\nTo Be Recived\nTo Be\nTo Be\nTo 0.\nTo Be Recived\nTo Be Recived\nI\nTuition Fee\n15000\n7500\nfrom Govt,\n0\nRecived\nRecived from\nReci ved from\nfrom Govt.\nfrom Govt.\nfrom GO\\1.\nGoVi.\nGOVI.\nTo Be\nTo Oe\nTo Be\n2\nDevelopment\nFee\n39850\n39850\n39850\n39850\nRecived\nRecived from\nRecived from\n39850\n39850\nfrom Govr.\nGOY!.\nGOVI.\nTo Be\nTo Be\nTo Be\n3\nOther Fee\"\n26000\n26000\n26000\n26000\nRecived\nRecived from\nRecived from\n26000\n26000\nfrom GOVI.\nGovt.\nGOVI.\n4\nCMD (Refundable)\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n1000\n5\nIdentity Card\n100\n100\n100\n100\n100\n100\n0\n100\n100\n6\nAlumini Fee\n125\n125\n125\n125\n125\n125\n0\n125\n125\n7\nInsurance Fee\n454\n454\n454\n454\n454\n454\n0\n454\n454\n8\nUniversity\nFee\n386\n386\n386\n386\n386\n386\n0\n386\n386\n9\nISTE Fee\n236\n236\n?36\n236\n236\n236\n0\n236\n236\nTo Be Recived\nTo Be\nTo Be Recived\n10\nExamination\nFee\n2000\n2000\nfrom Govt.\n2000\n2000 Recived from\n0\n2000\nfrom Govt.\nGovt.\nII\nLeaving Certificate\nFee\n50\n50\n50\n50\n50\n50\n0\n50\n50\nTot.l-\n85201\n77701\n68201\n70201\n4351\n2351\n1000\n70201\n68201\n• Eligibility\nFee Extra\nHome University\nAll Open & Category\nStudent\nOther\nUniversity\nAll Open & Category\nStud en I\nRs.310/-\nRs.510/-\nNote:\nI. Concession\nholders of Defence/PTC/STC\nstudents have to pay full fee at the lime of admission.\nThe fees may gel refunded condition\n10 sanction\nfrom sanctioning\nauthority,\n2. In case, if validity, creamy layer (as applicable)\nis not submitted\nat the lime of admission,\nstudent\nhave\n10 pay full fees compulsorily.\nReimbursement\ncan be claimed after\nsubrn ission of the required\ndocuments\nduring the duration of course and subject to the approval from concerned\nauthority\nfor the same.\n3. Examination\nfee for backlog courses to be paid separately\nas per number of courses need\n10 be appear.\n4. For SC/ST Category\ncandidates,\nthe scheme I mode of concessions.\nscheme of scholarship\n(if any) is applicable\nfor eligible candidates.\ne.g. tuition & other fees announced\nby\nthe Central ZStale Government.\nThese candidates\nwill gel only that amount of waiver as notified in the circulars\nissued by the Social welfare Depanment\nfrom lime\n10 lime.\nsubject\n10 fulfillment of norms & conditions\nlaid down by Social welfare Department.\n5. In case of B.Tech OBCN JNT/SBC/SEBC\nCategory\nstudents. from 2018-19\nonwards the amount of \"Other Fees\" (Rs.26.000\n-) is nOIsanctioned\nfrom the Government,\nhence this\npan shou",
+    "GCE KARAD DOCUMENT LIST.pdf": "¯ÖÖ¡ÖŸÖêÃÖÖšüß †Ö¾Ö¿µÖÛú ÛúÖÝÖ¤ü¯Ö¡Öê (Documents) \n  \n \n¿ÖîõÖ×ÞÖÛú ¾ÖÂÖÔ 2026-27 ´Ö¬µÖê ´ÖÆüÖ×¾ÖªÖ»ÖµÖÖŸÖ ¯ÖÏ¾Öê¿Ö ‘ÖêŸÖ»Öê»µÖÖ ÃÖ¾ÖÔ ¯ÖÏ£Ö´Ö ¾ÖÂÖÔ ²Öß.™êüÛú.  \n(B.Tech First Year)ú †³µÖÖÃÖÛÎú´ÖÖÓ´Ö¬Öß»Ö ×¾ÖªÖ£µÖÖÕ®ÖÖ ÃÖã×“ÖŸÖ Ûú¸üÞµÖÖŸÖ µÖêŸÖê Ûúß, ×¿Ö¾ÖÖ•Öß ×¾ÖªÖ¯Ößšü, \nÛúÖê»ÆüÖ¯Öæ¸ü ¯ÖÖ¡ÖŸÖÖ †•ÖÔ (Eligibility Form) ³Ö¸üŸÖê ¾Öêôûß †Ö¾Ö¿µÖÛú †ÃÖ»Öê»Öß ÜÖÖ»Öß»Ö ŸÖŒŸµÖÖŸÖß»Ö \n¤ü¿ÖÔ×¾Ö»Öê»Öß ÛúÖÝÖ¤ü¯Ö¡Öê PDF Ã¾Öºþ¯ÖÖŸÖ (Less than 2mb size) ŸÖµÖÖ¸ü Ûúºþ®Ö Ã¾ÖŸÖ:“µÖÖ E-mail ID \nØÛú¾ÖÖ Whatsapp ¾Ö¸ü save Ûúºþ®Ö šêü¾ÖÖ¾ÖêŸÖ.  \nB.Tech First Year \n \n†.ÛÎú. \n»ÖÖÝÖæ †ÃÖ»Öê»Öß ›üÖòŒµÖæ´Öë™ËüÃÖ †¯Ö»ÖÖê›ü Ûú¸üÞÖê \n1 \nAdmission Confirmation  Letter \nSeparate \nPDF \n \n \n2 \nFee Receipt \nSeparate \nPDF \n \n \n \n3 \nSSC Passing Certificate \nCombine \nPDF \n \n \n \n4 \nHSC Passing Certificate \n \n \n \n5 \nMHT-CET Score Card \nSeparate \nPDF \n \n \n \n6 \nTC/LC \nSeparate \nPDF \n \n \n7 \nMigration Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n \n \n8 \nCaste Certificate / EWS Certificate. \nCombine \nPDF \n \n \n \n9 \nCaste Validity \n \n \n \n10 \nNon Creamy Layer \n \n \n \n11 \nIncome Certificate \nSeparate \nPDF \n \n \n \n12 \nDomicile Certificate \nSeparate \nPDF \n \n \n \n13 \nGap Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n \n \n \n \n \n \n14 \nPWD Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n15 \nOrphan Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n†Ö¤êü¿ÖÖ¾Öºþ®Ö... \n \n \n \n\n \n \n¯ÖÖ¡ÖŸÖêÃÖÖšüß †Ö¾Ö¿µÖÛú ÛúÖÝÖ¤ü¯Ö¡Öê (Documents) \n  \n \n¿ÖîõÖ×ÞÖÛú ¾ÖÂÖÔ 2026-27 ´Ö¬µÖê ´ÖÆüÖ×¾ÖªÖ»ÖµÖÖ´Ö¬µÖê ¯ÖÏ¾Öê¿Ö ‘ÖêŸÖ»Öê»µÖÖ ÃÖ¾ÖÔ £Öê™ü ×«üŸÖßµÖ ¾ÖÂÖÔ ²Öß.™êüÛú \n(B.Tech. Direct Second Year) †³µÖÖÃÖÛÎú´ÖÖÓ´Ö¬Öß»Ö ×¾ÖªÖ£µÖÖÕ®ÖÖ ÃÖã×“ÖŸÖ Ûú¸üÞµÖÖŸÖ µÖêŸÖê Ûúß, ×¿Ö¾ÖÖ•Öß \n×¾ÖªÖ¯Ößšü, ÛúÖê»ÆüÖ¯Öæ¸ü ¯ÖÖ¡ÖŸÖÖ †•ÖÔ (Eligibility Form) ³Ö¸üŸÖê ¾Öêôûß †Ö¾Ö¿µÖÛú †ÃÖ»Öê»Öß ÜÖÖ»Öß»Ö \nŸÖŒŸµÖÖŸÖß»Ö ¤ü¿ÖÔ×¾Ö»Öê»Öß ÛúÖÝÖ¤ü¯Ö¡Öê PDF Ã¾Öºþ¯ÖÖŸÖ (Less than 2mb size) ŸÖµÖÖ¸ü Ûúºþ®Ö Ã¾ÖŸÖ:“µÖÖ E-\nmail ID ØÛú¾ÖÖ Whatsapp ¾Ö¸ü save Ûúºþ®Ö šêü¾ÖÖ¾ÖêŸÖ.  \n \nB.Tech. DSE \n \n†.ÛÎú. \n»ÖÖÝÖæ †ÃÖ»Öê»Öß ›üÖòŒµÖæ´Öë™ËüÃÖ †¯Ö»ÖÖê›ü Ûú¸üÞÖê \n \n1 \nAdmission Confirmation  Letter \nSeparate \nPDF \n2 \nFee Receipt \nSeparate \nPDF \n3 \nSSC Passing Certificate \nCombine \nPDF \n \n4 \nHSC Passing Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \n \n5 \nTC/LC \nSeparate \nPDF \n6 \nMigration Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n7 \nCaste Certificate / EWS Certificate. \nCombine \nPDF \n8 \nCaste Validity \n \n9 \nNon Creamy Layer \n \n10 \nIncome Certificate \nSeparate \nPDF \n11 \nDomicile Certificate \nSeparate \nPDF \n12 \nGap Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n13 \nDiploma Certificate and All Year Mark \nsheets \nCombine \nPDF \n14 \nPWD Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n15 \nOrphan Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n \n \n \n \n†Ö¤êü¿ÖÖ¾Öºþ®Ö... \n \n \n \n\n \n \n¯ÖÖ¡ÖŸÖêÃÖÖšüß †Ö¾Ö¿µÖÛú ÛúÖÝÖ¤ü¯Ö¡Öê (Documents) \n  \n \n¿ÖîõÖ×ÞÖÛú ¾ÖÂÖÔ 2026-27 ´Ö¬µÖê ´ÖÆüÖ×¾ÖªÖ»ÖµÖÖ´Ö¬µÖê ¯ÖÏ¾Öê¿Ö ‘ÖêŸÖ»Öê»µÖÖ ÃÖ¾ÖÔ ¯ÖÏ£Ö´Ö ¾ÖÂÖÔ ‹´Ö.™êüÛú. ¾Ö \n‹´Ö.ÃÖß.‹. (M.Tech and M.C.A First Year) †³µÖÖÃÖÛÎú´ÖÖÓ´Ö¬Öß»Ö ×¾ÖªÖ£µÖÖÕ®ÖÖ ÃÖã×“ÖŸÖ Ûú¸üÞµÖÖŸÖ \nµÖêŸÖê Ûúß, ×¿Ö¾ÖÖ•Öß ×¾ÖªÖ¯Ößšü, ÛúÖê»ÆüÖ¯Öæ¸ü ¯ÖÖ¡ÖŸÖÖ †•ÖÔ (Eligibility Form) ³Ö¸üŸÖê ¾Öêôûß †Ö¾Ö¿µÖÛú \n†ÃÖ»Öê»Öß ÜÖÖ»Öß»Ö ŸÖŒŸµÖÖŸÖß»Ö ¤ü¿ÖÔ×¾Ö»Öê»Öß ÛúÖÝÖ¤ü¯Ö¡Öê PDF Ã¾Öºþ¯ÖÖŸÖ (Less than 2mb size) \n¯ÖµÖÕŸÖ ŸÖµÖÖ¸ü Ûúºþ®Ö Ã¾ÖŸÖ:“µÖÖ E-mail ID ØÛú¾ÖÖ Whatsapp ¾Ö¸ü save Ûúºþ®Ö šêü¾ÖÖ¾ÖêŸÖ.  \nM.Tech. and M.C.A. First Year \n†.ÛÎú. \n»ÖÖÝÖæ †ÃÖ»Öê»Öß ›üÖòŒµÖæ´Öë™ËüÃÖ †¯Ö»ÖÖê›ü Ûú¸üÞÖê \n \n1 \nAdmission Confirmation  Letter \nSeparate \nPDF \n2 \nFee Receipt \nSeparate \nPDF \n3 \nSSC Passing Certificate \nCombine \nPDF \n4 \nHSC Passing Certificate/Diploma \n5 \nGraduation Certificate \nSeparate \nPDF \n \n6 \nGATE/MHT-CET Score Card \nSeparate \nPDF \n \n7 \nAll Degree Certificate Attested Photo Copies \nSeparate \nPDF \n8 \nTC/LC \nSeparate \nPDF \n9 \nMigration Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n10 \nCaste Certificate / EWS Certificate \nCombine \nPDF \n11 \nCaste Validity \n \n12 \nNon Creamy Layer \n13 \nIncome Certificate \nSeparate \nPDF \n14 \nDomicile Certificate \nSeparate \nPDF \n15 \nGap Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n16 \nDiploma Certificate and All Mark sheets (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nCombine \nPDF \n \n17 \nAll year Degree Mark sheet’s (1st to Final Year,  Separate \nPDF) \nCombine \nPDF \n \n18 \nPWD Certificate (»ÖÖÝ \nÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n19 \nOrphan Certificate (»ÖÖÝÖæ †ÃÖ»µÖÖÃÖ...) \nSeparate \nPDF \n \n \n \n \n \n \n \n†Ö¤êü¿ÖÖ¾Öºþ®Ö....",
+    "GCE KARAD ADMISSION FLOWCHART.pdf": "No Online Transaction Charges \nFirst Year B.Tech/M.Tech/DSE Admission Process \n10 Steps Flowchart \n*Note: Mobile no. & Email ID is mandatory for receiving passwords, notices, results \n \n \n \n \n \nStudent Section \nAccounts Section \nLibrary Section \nConfirmation \n \nClerks \n \n \nDigital Cashier \n \nLibrarian \n \n       Institute Officer \n \nStudent \n \nNo Online Transaction Charges \n \nOnline Fee Payment \n \n \n \n \n \n \nScanned Photo \n \n \nAdmission Confirmation Letter \n1. Clerk verify the admission documents \n2. Clerk will enter the basic details of \nallotted admission seeking student & \ngenerate the Registration number. \n3. Student get the Registration No. & \npassword on Mobile & Email ID. \n \n4. Student \nlogin \nto \nMIS \nhttps://mis.gcekarad.ac.in \n& \nmust \nto \nchange \ndefault \npassword. \n5. Pay the admission fee through \nMIS login by login internet \nbanking or credit/debit card. \n6. Librarian will take student’s \nscanned Passport Sise photo & \nupload in MIS. \n9. Student collect the ID Card \nfrom \nthe \nLibrary \non \ncommencement of classes. \n7. Officer confirm admission in \nMIS & DTE portal.  \n8. Gives \nAdmission \nConfirmation \nReport \n& \nReceipt-Cum-\nAcknowledgement \nof \nConfirmation of Admission  \n10. Student must visit the institute’s website www.gcekarad.ac.in & MIS portal https://mis.gcekarad.ac.in regularly for hostel admission merit list, latest \nupdates, notices, syllabus & results. \n1\n2\n3\n4\nCollect ID Card \nHostel? \nTell here",
+    "GCE KARAD ADMISSION PROCESS.pdf": "Page 1 of 4\n|ÉlÉ¨É ´É¹ÉÇ ¤ÉÒ.]äõEò/B¨É.]äõEò/B¨ÉºÉÒB +ÉÊhÉ lÉä]õ ÊuùiÉÒªÉ ´É¹ÉÇ ¤ÉÒ.]äõEò\n|É´Éä¶É |ÉÊGòªÉÉ\n+É¨½þÒ ®úÉäJÉ ®úCEò¨É, SÉäEò +lÉ´ÉÉ b÷Ò¨ÉÉÆb÷ bÅ÷É}]õ Îº´ÉEòÉ®úiÉ xÉÉ½þÒ.\n√+É¨½þÒ ¡òCiÉ +ÉìxÉ±ÉÉ<ÇxÉ {Éä¨ÉäÆ]õSÉ Îº´ÉEòÉ®úiÉÉä.\n|É´Éä¶ÉÉºÉÉ`öÒ +É´É¶ªÉEò EòÉMÉnù{ÉjÉä\nÊ´ÉtÉlªÉÉÈxÉä Ê¨É³ýÉ±Éä±ÉÉ |É´Éä¶É ÊxÉ¶SÉÒiÉ Eò®úhªÉÉºÉÉ`öÒ ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú ¨ÉvªÉä +ÉìxÉ±ÉÉ<ÇxÉ ¡òÉì¨ÉÇ ¦É®úhÉä +É´É¶ªÉEò +É½äþ.\niªÉÉºÉÉ`öÒ iªÉÉÆxÉÉ ºÉÖSÉÒiÉ Eò®úhªÉÉiÉ ªÉäiÉä EòÒ, JÉÉ±ÉÒ Ênù±Éä±ªÉÉ Gò¨ÉÉxÉÖºÉÉ®ú ¨ÉÖ³ý EòÉMÉnù{ÉjÉä UôÉªÉÉÆEòÒiÉ nùÉäxÉ |ÉiÉÒSªÉÉ ´ÉäMÉ´ÉäMÉ²ªÉÉ ºÉÆSÉÉºÉ½þ\niÉ{ÉÉºÉhªÉÉºÉÉ`öÒ PÉä>ðxÉ ªÉÉ´Éä.\n]äõ¤É±É 1 : |ÉlÉ¨É ´É¹ÉÇ ¤ÉÒ.]äõEò/B¨É.]äõEò/B¨ÉºÉÒB +ÉÊhÉ lÉä]õ ÊuùiÉÒªÉ ´É¹ÉÇ ¤ÉÒ.]äõEò |É´Éä¶ÉÉºÉÉ`öÒ +É´É¶ªÉEò EòÉMÉnù{ÉjÉÉÆSÉÉ Gò¨É\nÊ]õ{É -\n+.Gò. 1 iÉä 11 ¨ÉvÉÒ±É EòÉMÉnù{ÉjÉä ºÉ´ÉÇ Ê´ÉtÉlªÉÉÇxÉÒ VÉÉäb÷hÉä +É´É¶ªÉEò +É½äþ.\n+.Gò. 12 ´É 13 ¨ÉvÉÒ±É EòÉMÉnù{ÉjÉä ºÉ´ÉÇ ¨ÉÉMÉÉºÉ ´ÉMÉÔªÉ Ê´ÉtÉlªÉÉÇxÉÒ VÉÉäb÷hÉä +É´É¶ªÉEò +É½äþ.\n+.Gò. 14 ¨ÉvÉÒ±É EòÉMÉnù{ÉjÉ +xÉÖºÉÖÊSÉiÉ VÉÉiÉÒ / VÉ¨ÉÉiÉÒSÉä Ê´ÉtÉlÉÔ ºÉÉäbÚ÷xÉ ºÉ´ÉÇ ¨ÉÉMÉÉºÉ ´ÉMÉÔªÉ Ê´ÉtÉlªÉÉÇxÉÒ VÉÉäb÷hÉä +É´É¶ªÉEò +É½äþ.\n+.Gò. 15 ¨ÉvÉÒ±É EòÉMÉnù{ÉjÉ TFWS EòÉä`ö¬É¨ÉvÉÚxÉ |É´Éä¶É Ê¨É³ýÉ±Éä±ªÉÉ Ê´ÉtÉlªÉÉÇxÉÒ VÉÉäb÷hÉä +É´É¶ªÉEò +É½äþ.\n+.Gò. 16 ´É 17 ¨ÉvÉÒ±É EòÉMÉnù{ÉjÉä ¡òCiÉ B¨É.]äõEò / B¨ÉºÉÒB ¶ÉÉJÉä¨ÉvªÉä |É´Éä¶É Ê¨É³ýÉ±Éä±ªÉÉ Ê´ÉtÉlªÉÉÇxÉÒ VÉÉäb÷hÉä +É´É¶ªÉEò +É½äþ.\n+.\nGò.\nEòÉMÉnù{ÉjÉä\n¶Éä®úÉ\nºÉÆSÉ - 1\n|É´Éä¶ÉÉºÉÉ`öÒ\nºÉÆSÉ -2\n{ÉÉjÉiÉäºÉÉ`öÒ\n1\nProvisional Allotment Status Form generated in\nCandidates login\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx] õ\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx]õ VÉÉäb÷hÉä\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx]õ VÉÉäb÷hÉä\n2\nReceipt-Cum-Acknowledgement of Seat\nAcceptance Form\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx] õ\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx] VÉÉäb÷hÉä\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx] VÉÉäb÷hÉä\n3\nCertificate of Indian Nationality in the Name of\nthe Candidate\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n4\nDomicile/Birth/Leaving certificate of candidate\nIndicating place of Birth in the Maharashtra state\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n5\nStatement of Marks or Certificate of Passing SSC\n/ Equivalent Examination.\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n6\nStatement of Marks or Certificate of Passing HSC\nor Diploma\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n7\nMHT-CET Score Card or GATE Score Card\nºÉÆEäòiÉºlÉ³ýÉ\n´É®úÒ±É Ê|Éx]\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n\nPage 2 of 4\n8\nBank Account Passbook of Candidate\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n-\n9\nAadhaar Card\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n10\nAcademic Bank of Credits (ABC) ID\n-\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n11\nLeaving/Transfer Certificate issued by the\nprevious institute\n-\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n12\nCaste Certificate of the Candidate for all Reserve\nCategory Candidates\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n13\nCaste/Tribe Validity Certificate of Candidate for\nall Reserve Category Candidates\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n14\nNon-Creamy Layer Certificate for\nOBC/SBC/NT/VJ Category Candidates\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n15\nIncome Certificate of Parents for TFWS (If\nApplicable)\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n16\nStatement of Marks of Degree of all\nyears/semesters for M.Tech/MCA admission\n¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nnùÉJÉÊ´ÉhÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\nUôÉªÉÉÆEòÒiÉ |ÉiÉ\nVÉÉäb÷hÉä\n17\nMigration Certificate for M.Tech/MCA\nAdmission\n|É´Éä¶É ÊxÉ¶SÉÒiÉ Eäò±ªÉÉxÉÆiÉ®ú BEò ¨ÉÊ½þxªÉÉSªÉÉ +ÉiÉ ¨ÉÖ³ý EòÉMÉnù{ÉjÉ\nVÉ¨ÉÉ Eò®úhÉä\n|É´Éä¶É |ÉÊGòªÉÉ\n|ÉlÉ¨É ´É¹ÉÇ ¤ÉÒ.]äõEò/B¨É.]äõEò/B¨ÉºÉÒB +ÉÊhÉ lÉä]õ ÊuùiÉÒªÉ ´É¹ÉÇ ¤ÉÒ.]äõEò ¨ÉvªÉä |É´Éä¶É Ê¨É³ýÉ±Éä±ªÉÉ Ê´ÉtÉlªÉÉÈxÉÒ JÉÉ±ÉÒ±É Gò¨ÉÉxÉÖºÉÉ®ú |É´Éä¶É ÊxÉ¶SÉÒiÉ\nEò®úhÉä +É´É¶ªÉEò +É½äþ.\n1. |ÉlÉ¨É ´É¹ÉÇ ¤ÉÒ.]äõEò/B¨É.]äõEò/B¨ÉºÉÒB +ÉÊhÉ lÉä]õ ÊuùiÉÒªÉ ´É¹ÉÇ ¤ÉÒ.]äõEò ¨ÉvªÉä |É´Éä¶É Ê¨É³ýÉ±Éä±ªÉÉ Ê´ÉtÉlªÉÉÈxÉÒ |É´Éä¶É ÊxÉ¶SÉÒiÉ Eò®úhÉä\nEòÊ®úiÉÉ º´ÉiÉ& ]äõ¤É±É Gò¨ÉÉÆEò 1 ¨ÉvªÉä Ênù±Éä±ªÉÉ Gò¨ÉÉxÉÖºÉÉ®ú EòÉMÉnù{ÉjÉÉSªÉÉ ¨ÉÖ³ý ´É UôÉªÉÉÆEòÒiÉ |ÉiÉÓSªÉÉ nùÉäxÉ ºÉÆSÉÉºÉ½þ (BEò ºÉÆSÉ |É´Éä¶É\nÊxÉ¶SÉÒiÉÒ ºÉÉ`öÒ ´É BEò ºÉÆSÉ Ê¶É´ÉÉVÉÒ Ê´ÉtÉÊ{É`öÉºÉ {ÉÉjÉiÉäºÉÉ`öÒSÉÉ ¡òÉì¨ÉÇ {ÉÉ`öÊ´ÉhªÉÉºÉÉ`öÒ) Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉ¨ÉvªÉä ½þVÉ®ú ®úÉ½þhÉä +É´É¶ªÉEò\n+É½äþ.\n2. Ê´ÉtÉlªÉÉÈxÉä Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É Ê±É{ÉÒEòÉEòbÚ÷xÉ ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú ¨ÉvªÉä |ÉÉlÉÊ¨ÉEò º´É¯û{ÉÉSÉÒ ¨ÉÉÊ½þiÉÒ ¦É¯ûxÉ\n´ÉºÉÊiÉMÉÞ½þÉ¨ÉvªÉä ®úÉ½þhÉÉ®ú +É½äþ ËEò´ÉÉ EòºÉä ªÉÉ¤ÉÉ¤ÉiÉ ¨ÉÉÊ½þiÉÒ tÉ´ÉªÉÉSÉÒ +É½äþ.\n3. Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É Ê±É{ÉÒEò |ÉÉlÉÊ¨ÉEò º´É¯û{ÉÉSÉÒ ¨ÉÉÊ½þiÉÒ ¦É®ú±ªÉÉxÉÆiÉ®ú B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú uùÉ®äú BEò ®úÊVÉº]Åäõ¶ÉxÉ xÉÆ¤É®ú ´É\n{ÉÉºÉ´ÉbÇ÷ iÉªÉÉ®ú Eò®äú±É. ºÉnù®úSÉÉ ®úÊVÉº]Åäõ¶ÉxÉ ´É {ÉÉºÉ´ÉbÇ÷ iÉºÉäSÉ ºÉÆºlÉäSªÉÉ +É´ÉÉ®úÉ¨ÉvªÉä Cyberoam uùÉ®äú <Æ]õ®úxÉä]õ ´ÉÉ{É®úÉEòÊ®úiÉÉSÉÉ\n±ÉÉìMÉÒxÉ +ÉªÉb÷Ò ´É {ÉÉºÉ´ÉbÇ Ê´ÉtÉlªÉÉÈxÉÉ iªÉÉÆSªÉÉ <-¨Éä±É +ÉªÉb÷Ò ´É ¨ÉÉä¤ÉÉ<Ç±É Gò¨ÉÉÆEòÉ´É®ú {ÉÉ`öÊ´É±ÉÉ VÉÉ<Ç±É.÷\n4. Ê´ÉtÉlªÉÉÈxÉä ºÉnù®ú ®úÊVÉº]Åäõ¶ÉxÉ ´É {ÉÉºÉ´ÉbÇ÷ uùÉ®äú ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+® (https://mis.gcekarad.ac.in) ¨ÉvªÉä ±ÉÉìMÉÒxÉ\nEò¯ûxÉ Ênù±Éä±ÉÉ {ÉÉºÉ´ÉbÇ÷ ¤Énù±ÉhÉä +ÊxÉ´ÉÉªÉÇ +É½äþ.\n5. Ê´ÉtÉlªÉÉÈxÉÒ <Æ]õ®úxÉä]õ ¤ÉìEòÓMÉuùÉ®äú +lÉ´ÉÉ Gäòb÷Ò]/bä÷¤ÉÒ]õ EòÉbÇ÷ ´ÉÉ{É°üxÉ ºÉÆºlÉäSªÉÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+® ¨ÉvÉÒ±É ±ÉÉìMÉÒxÉuùÉ®äú\n|É´Éä¶ÉÉEò®úÒiÉÉ +É´É¶ªÉEò +ºÉ±Éä±ÉÒ ¡òÒ ¦É®úÉ´ÉÒ.\n6. |É´Éä¶É ¡òÒ ªÉ¶Éº´ÉÒ®úÒiªÉÉ ¦É®ú±ªÉÉxÉÆiÉ®ú Ê´ÉtÉlªÉÉÈxÉä OÉÆlÉÉ±ÉªÉÉ¨ÉvªÉä ¡òÉä]õÉä ´É ºÉ½þÒSÉÉ xÉ¨ÉÖxÉÉ näùhÉä +É´É¶ªÉEò +É½äþ.\n\nPage 3 of 4\n7. Ê´ÉtÉlªÉÉÈxÉä B+É®úºÉÒ +ÊvÉEòÉ­ªÉÉÆEòbÚ÷xÉ +ÉìxÉ±ÉÉ<ÇxÉ |É´Éä¶É ÊxÉ¶SÉÒiÉÒEò®úhÉ Eò¯ûxÉ PªÉÉ´Éä. |É´Éä¶ÉÉSÉä +ÉìxÉ±ÉÉ<ÇxÉ ÊxÉ¶SÉÒiÉÒEò®úhÉ ZÉÉ±ªÉÉxÉÆiÉ®ú\nB+É®úºÉÒ +ÊvÉEòÉ­ªÉÉÆEòbÚ÷xÉ B¨É+ÉªÉBºÉ ºÉÉì}]õ´Éä+®ú uùÉ®äú ÊxÉ¨ÉÔiÉ +ìb÷Ê¨É¶ÉxÉ Eòx¡ò®ú¨Éä¶ÉxÉ Ê®ú{ÉÉä]ÇõSÉÒ BEò |ÉiÉ ´É Ê®úÊºÉ{]õ Eò¨É\n+ìExÉÉÉì±ÉäVÉ¨Éå]õ +Éì¡ò Eòx¡ò®ú¨Éä¶ÉxÉ +Éì¡ò +ìb÷Ê¨É¶ÉxÉ SÉÒ BEò |ÉiÉ |ÉÉ{iÉ Eò°üxÉ PªÉÉ´ÉÒ.\n8. ´É®úÒ±É |É´Éä¶É |ÉÊGòªÉÉ {ÉÖhÉÇ Eäò±ªÉÉxÉÆiÉ®ú Ê´ÉtÉlªÉÉÈxÉä OÉÆlÉÉ±ÉªÉÉiÉ ¦Éä]õ näù>ðxÉ +É{É±Éä +Éä³ýJÉ{ÉjÉ |ÉÉ{iÉ Eò°üxÉ PªÉÉ´Éä.\n9. Ê´ÉtÉlªÉÉÇxÉä Ê¶É´ÉÉVÉÒ Ê´ÉtÉÊ{É`öÉSÉÉ |ÉÉjÉiÉÉ ¡òÉì¨ÉÇ ¦É®úhªÉÉºÉÉ`öÒ Ê´ÉtÉlÉÔ Ê´É¦ÉÉMÉÉiÉÒ±É |ÉÉjÉiÉÉ Ê´É¦ÉÉMÉÉºÉ ¦Éä]õ tÉ´ÉÒ.\n10. Ê´ÉtÉlªÉÉÇxÉä ºÉÆºlÉäSÉä ºÉÆEäòiÉ ºlÉ³ý\nhttp://gcekarad.ac.in iÉºÉäSÉ https://mis.gcekarad.ac.in ªÉÉ ´Éä¤ÉºÉÉ<Ç]õ´É®ú\n´Éä³ýÉä´Éä³ýÒ ¦Éä]õ näù>ðxÉ +É´É¶ªÉEò iªÉÉ xÉÉä]õÒºÉäºÉ iÉºÉäSÉ +{Ébä÷]ÂõºÉ |ÉÉ{iÉ Eò¯ûxÉ PªÉÉ´ÉäiÉ.\n+ÉìxÉ±ÉÉ<ÇxÉ ¡òÒ SÉÒ ®úCEò¨É Îº´ÉEòÉ®úhªÉÉSªÉÉ {ÉrùiÉÒ\n<Æ]õ®úxÉä]õ ¤ÉÆìËEòMÉ, GäòÊb÷]õ/bä÷¤ÉÒ]õ EòÉbÇ÷ uùÉ®äú Eäò±Éä±ªÉÉ ´ªÉ´É½þÉ®úÉ´É®ú EòÉähÉiÉä½þÒ ¶ÉÖ±Eò xÉÉ½þÒ\nÊ´ÉtÉlªÉÉÈxÉä JÉÉ±ÉÒ Ênù±Éä±ªÉÉ iÉCiªÉÉiÉÒ±É EòÉähÉiªÉÉ½þÒ BEòÉ ¤ÉÆìEäòSÉÒ <Æ]õ®úxÉä]õ ¤ÉÆìEòÓMÉ +lÉ´ÉÉ Gäòb÷Ò]õ/bä÷¤ÉÒ]õ EòÉbÇ÷ ºÉÖÊ´ÉvÉÉ ´ÉÉ{É°üxÉú ¡òÒ ¦É®úÉ´ÉÒ.\n1. <Æ]õ®úxÉä]õ ¤ÉÆìEòÓMÉ (Ê¶É¡òÉ®úºÉ Eäò±Éä±ªÉÉ)\n¤ÉÆìEäòSÉä xÉÉÆ´É\n¤ÉÆìEäòSÉä xÉÉÆ´É\n¤ÉÆìEäòSÉä xÉÉÆ´É\n¦ÉÉ®úiÉÒªÉ º]äõ]õ ¤ÉÆìE\n+ÉªÉ ºÉÒ +ÉªÉ ºÉÒ +ÉªÉ ¤ÉÆìEò\nBSÉ b÷Ò B¡ò ºÉÒ ¤ÉÆìEò\nEòÉä]õEò ¨ÉË½þpùÉ ¤ÉÆìEò\n+ìÎCºÉºÉ ¤ÉÆìEò\n+ÉªÉ b÷Ò ¤ÉÒ +ÉªÉ ¤ÉÆìEò\n¨É½þÉ®úÉ¹]Åõ ¤ÉÆìEò\n¤ÉÆìEò +Éì¡ò ¤É®úÉänùÉ\n¤ÉÆìEò +Éì¡ò <ÆÊb÷ªÉÉ\nB+®ú]äõ±É {Éä¨Éå]õ ¤ÉÆìEò\n+ÉxwÉÉ ¤ÉÆìEò\n¤ÉÆvÉxÉ ¤ÉÆìEò\n¤ÉÆìEò +Éì¡ò ¤É½þÊ®úxÉ ´É EÖò´ÉäiÉ\nEìòxÉ®úÉ ¤ÉÆìEò\nEìòlÉÊ±ÉEò ÊºÉ®úÒªÉxÉ ¤ÉÆìEò\nºÉå]Åõ±É ¤ÉÆìEò +Éì¡ò <ÆÊb÷ªÉÉ\nÊºÉ]õÒ ªÉÖÊxÉªÉxÉ ¤ÉÆìEò\nEòÉ{ÉÉæ®äú¶ÉxÉ ¤ÉÆìEò\nEòÉìºÉ¨ÉÉìºÉ ¤ÉÆìEò\nb÷Ò ¤ÉÒ BºÉ ¤ÉÆìEò Ê±É.\nb÷Ò.ºÉÒ.¤ÉÒ.¤ÉÆìEò\nÊb÷ºÉSÉä (Deutsche) ¤ÉÆìEò\nvÉxÉ±ÉI¨ÉÒ ¤ÉÆìEò\n¡äòb÷®ú±É ¤ÉÆìEò\n+ÉªÉ b÷Ò B¡ò ºÉÒ ¤ÉÆìEò\n<ÆÊb÷ªÉxÉ ¤ÉÆìEò\n<ÆÊb÷ªÉxÉ +Éä´½þ®úÊºÉVÉ ¤ÉÆìEò\n<Æb÷ºÉ<Æb÷ ¤ÉÆìEò\nVÉxÉiÉÉ ºÉ½þEòÉ®úÒ ¤ÉÆìEò, {ÉÖhÉä\nEòxÉÉÇ]õEòÉ ¤ÉÆìEò\nEò¯û®ú ´Éè¶ªÉ ¤ÉÆìEò\n±ÉI¨ÉÒ Ê´É±ÉÉºÉ ¤ÉÆìEò\n+ÉäÊ®úªÉÆ]õ±É ¤ÉÆìEò +Éì¡ò EòÉì¨ÉºÉÇ\n{ÉÆVÉÉ¤É xÉì¶ÉxÉ±É ¤ÉÆìEò\n+É®ú.¤ÉÒ.B±É.¤ÉÆìEò\nºÉÉ®úº´ÉiÉ ¤ÉÆìEò\n¶ÉÉ¨É®úÉ´É Ê´Éaö±É ¤ÉÆìEò\nºÉÉ>ðlÉ <ÆÊb÷ªÉxÉ ¤ÉÆìEò\nº]ìõxb÷bÇ÷ SÉÉ]ÇõbÇ÷ ¤ÉÆìEò\nËºÉb÷ÒEäò]õ ¤ÉÆìEò\niÉÊ¨É³",
+    "KARAD FE & DSE admission schedule and imp Docs 2026-27.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 5,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06005",
+  "cetCode": "06005",
+  "dteCode": "06005"
+}

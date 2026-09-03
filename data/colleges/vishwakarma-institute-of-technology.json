@@ -1,0 +1,100 @@
+{
+  "id": "vishwakarma-institute-of-technology",
+  "name": "Vishwakarma Institute of Technology",
+  "slug": "vishwakarma-institute-of-technology",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "VIOT",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "VIT PUNE Fees-Structure_CAP_F-Y-B.Tech_2026-27-1.pdf",
+          "path": "/documents/vishwakarma-institute-of-technology/VIT PUNE Fees-Structure_CAP_F-Y-B.Tech_2026-27-1.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "VIT PUNE F-Y-List-of-documents-.pdf",
+          "path": "/documents/vishwakarma-institute-of-technology/VIT PUNE F-Y-List-of-documents-.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "VIT ADMISSION PROCESS.pdf",
+          "path": "/documents/vishwakarma-institute-of-technology/VIT ADMISSION PROCESS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Transfer Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "EWS Certificate",
+    "Domicile Certificate",
+    "Migration Certificate",
+    "Income Certificate",
+    "Gap Certificate",
+    "FC Verification",
+    "Receipt cum Acknowledgement",
+    "Seat Acceptance",
+    "Allotment Letter",
+    "MHT CET",
+    "Diploma Mark Sheet",
+    "APAR ID",
+    "Admission Form",
+    "Proforma",
+    "Orphan Certificate",
+    "JK Migrant"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "VIT PUNE Fees-Structure_CAP_F-Y-B.Tech_2026-27-1.pdf": "Communication Channels \n+91-20-24283001 \nE-mail \ndirector@vit.edu \nWebsite \nwww.vit.edu \n \nबन्सिलाल रामनाथ अगरवाल चॅररटेबल टरस्ट संचललत \n \nसाववत्रीबाई फुले पुणे ववद्यापीठाशी संलग्न स्वायत्त संस्था \n(पूवीचे पुणे ववद्यापीठ) \n ६६६,अप्पर इंविरनगर, वबबवेवाडी, पुणे – ४११ ०३७. \n \nApproved by A. I. C. T. E. New Delhi \nBansilal Ramnath Agarwal Charitable Trust's \nVishwakarma Institute of Technology \n(An Autonomous Institute Affiliated to Savitribai Phule Pune University) \n(Formerly Pune University) \n666, Upper lndiranagar, Bibwewadi, Pune - 411 037. \n \nIdentification No. - PU/PN/Engg./061/(1984)\n \n \n             Fee Structure for F.Y. B. Tech Admissions for the Academic Year – 2026-27 \n \nSr. \nNo. \nBranch \nTuition  \nFee * \nDevep.  \nFee * \nEligibility \nForm & Fees \nExam \nFees \nMisc. \nUniv Fees \nStudent \nInsurance \nTotal Fee \n(Rs.) \n1 \nOPEN \n 1,79,130  \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n2,12,171  \n2 \nOPEN - OMS \n 1,79,130  \n 26,870  \n1,150  \n2,420  \n 2,400  \n701  \n2,12,671  \n3 \nTFWS \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n4 \nOBC \n89,565 \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n1,22,606 \n5 \nEBC \n89,565 \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n1,22,606 \n6 \nEWS \n89,565 \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n1,22,606 \n7 \nSEBC \n89,565 \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n1,22,606 \n8 \nVJNT \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n9 \nSBC \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n10 \nSC  \n- \n- \n 650  \n2,420  \n 2,400  \n701  \n6,171 \n11 \nST \n- \n- \n 650  \n2,420  \n 2,400  \n701  \n6,171 \n12 \nOBC _GIRLS \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n13 \nEBC_GIRLS \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n14 \nEWS_GIRLS \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n15 \nSEBC_GIRLS \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n16 \nPH / PWD / ORPHAN \n- \n 26,870  \n 650  \n2,420  \n 2,400  \n701  \n33,041 \n17 \nOVER and ABOVE \n15,000 \n5,000 \n1,150 \n2,420  \n6,400  \n701  \n30,671 \n18 \nJ and K-PMSSS \n- \n- \n1,150 \n2,420  \n2,400  \n701  \n6,671  \n  Important Note :- \n1) Eligibility, Exam Fees & University fees are subject to change as per the SPPU circulars. \n2) Fees concession is applicable for only eligible category or open category students after his / her scrutiny of documents. \n3) Eligibility Form & Fees from Outside the State of Maharashtra to be taken Rs. 1150/- instead of Rs. 650/-. \n4) Fees Payment can be made by Online Payment / UPI / Credit Card / Debit Card. \n5) *The Fees to be paid each academic year - Tuition Fee & Dev. Fee. \n \n \n     Sd/-  \n \n \n \n \n \n \n \n \n Sd/- \nAuthorized Signatory \n \n \n \n \n \n \n \nAuthorized Signatory \n               A.O. \n \n \n \n \n \n \n \n \n \nCFO \n \n \n \n \n\nCommunication Channels \n+91-20-24283001 \nE-mail \ndirector@vit.edu \nWebsite \nwww.vit.edu \n \nबन्सिलाल रामनाथ अगरवाल चॅररटेबल टरस्ट संचललत \n \nसाववत्रीबाई फुले पुणे ववद्यापीठाशी संलग्न स्वायत्त संस्था \n(पूवीचे पुणे ववद्यापीठ) \n ६६६,अप्पर इंविरनगर, वबबवेवाडी, पुणे – ४११ ०३७. \n \nApproved by A. I. C. T. E. New Delhi \nBansilal Ramnath Agarwal Charitable Trust's \nVishwakarma Institute of Technology \n(An Autonomous Institute Affiliated to Savitribai Phule Pune University) \n(Formerly Pune University) \n666, Upper lndiranagar, Bibwewadi, Pune - 411 037. \n \nIdentification No. - PU/PN/Engg./061/(1984)\n \n \nशैक्षणिक वर्ष २०२६-२७ प्रथम वर्ष बी.टेक. कररता प्रवेश घेणार् या ववद्यार्थ्ाांसाठी शुल्क रचना \n \nअ. \nक्र. \n \nशाखा \nलशक्षण \nशुल्क * \nववकास \nशुल्क * \nपात्रता \nअर्ष व \nशुल्क \nपरीक्षा \nशुल्क \nइतर \nववद्यापीठ \nशुल्क \nववद्याथी \nववमा \nशुल्क \nएकूण \nरक्कम (Rs.) \n१ \nखुला (ओपन)  \n१,७९,१३० \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ २,१२,१७१ \n२ \nखुला (महाराष्ट्र बाहेरील) ववद्यार्थ्ाांसाठी – \nOMS \n१,७९,१३० \n२६,८७० १,१५० \n२,४२० \n२,४०० \n७०१ २,१२,६७१ \n३ \nटी एफ डब्लू एस (TFWS) \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n४ \nइतर मागास प्रवगष (OBC) \n८९,५६५ \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ १,२२,६०६ \n५ \nआलथषकदृष्ट्या मागास घटक (EBC) \n८९,५६५ \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ १,२२,६०६ \n६ \nआलथषकदृष्ट्या िुबषल घटक (EWS) \n८९,५६५ \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ १,२२,६०६ \n७ \nसामालर्क व आलथषकदृष्ट्या मागास प्रवगष \n(SEBC) \n८९,५६५ \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ १,२२,६०६ \n८ \nववमुक्त र्ाती/ भटक्या र्माती \n(व्हीर्े/डीटी/एनटी) (VJNT) \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n९ \nववशेर् मागास प्रवगष – (SBC) \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१० अनुसूलचत र्ाती (SC) \n \n- \n६५० \n२,४२० \n२,४०० \n७०१ \n६,१७१ \n११ अनुसूलचत र्माती (ST) \n \n- \n६५० \n२,४२० \n२,४०० \n७०१ \n६,१७१ \n१२ इतर मागासवगीय (ओबीसी) मुलींकररता \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१३ आलथषकदृष्ट्या मागास घटक (ईबीसी) \nमुलींकररता \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१४ आलथषकदृष्ट्या िुबषल घटक (ईडब्लूएस) \nमुलींकररता \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१५ सामालर्क व आलथषकदृष्ट्या मागास प्रवगष \n(एसईबीसी) मुलींकररता \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१६ विव्ांग / अनाथ ववद्यार्थ्ाांसाठी \n- \n२६,८७० \n६५० \n२,४२० \n२,४०० \n७०१ \n३३,०४१ \n१७ अवतररक्त कोटा ववद्यार्थ्ाांसाठी  \n(Over and Above) \n१५,००० \n५,००० १,१५० \n२,४२० \n६,४०० \n७०१ \n३०,६७१ \n१८ र्म्मू आलण काश्मीर - पी एम एसएसएस \n \n- १,१५० \n२,४२० \n२,४०० \n७०१ \n६,६७१ \n \n \n \n\nCommunication Channels \n+91-20-24283001 \nE-mail \ndirector@vit.edu \nWebsite \nwww.vit.edu \n \n \n  महत्वाच्या सूचना :- \n \n१. \nपात्रता शुल्क, ववद्यापीठ शुल्क आणि परीक्षा शुल्क हे साववत्रीबाई फुले पुणे ववद्यापीठाच्या वनयमाांनुसार बदलू शकतात.  \n२. \nफी सवलत केवळ पात्र प्रवगाषतील वकंवा खुल्या प्रवगाषतील ववद्यार्थ्ाांना त्ांच्या कागिपत्रांच्या छाननीनंतरच लागू होईल. \n३. \nमहाराष्ट्र राज्याबाहेरील ववद्यार्थ्ाांसाठी पात्रता अर्ष व शुल्क Rs. ६५०/- ऐवजी Rs. १,१५०/- असेल.  \n४. \nशुल्क भरण्याचे पयाषय: ऑनलाइन पेमेंट / UPI / क्रेविट कािष / िेवबट कािष. \n५. \n*प्रत्ेक शैक्षलणक वर्ाषसाठी िेय असलेले लशक्षण शुल्क व ववकास शुल्क. \n \n \n \n \n \n \nलेखालिकारी \n \n \n \n \n \n \n \nमुख्य ववत्त अलिकारी \n \nववश्वकमाष इन्सिट्यूट ऑफ टेक्नॉलॉर्ी \n \n \n \n \n \n  ववश्वकमाष इन्सिट्यूट ऑफ टेक्नॉलॉर्ी",
+    "VIT PUNE F-Y-List-of-documents-.pdf": "F. Y. B. Tech 2026-27 \n \nAll the documents mentioned below are to be submitted along with self-attested photocopies (Two Sets) \n \n*Note: TFWS & EWS candidates are required 3 (Three) Xerox Sets \n \nSr \nNo \nSet 1 - Original Documents \nSet 2 - Self-Attested Xerox Set \nSet 3 - Self-Attested Xerox Set \n1) \nReceipt \ncum \nAcknowledgement \nwith FC Verification Stamp / \nReceipt \ncum \nAcknowledgement \nallotted by E-Scrutiny \nReceipt cum Acknowledgement with FC \nVerification Stamp / Receipt cum \nAcknowledgement \nallotted \nby \nE-\nScrutiny \nReceipt cum Acknowledgement with FC \nVerification \nStamp \n/ \nReceipt \ncum \nAcknowledgement allotted by E-Scrutiny \n2) \nReceipt cum Acknowledgement of \nSeat Acceptance Form (DTE / State \nCET Allotment Letter) \nReceipt cum Acknowledgement of Seat \nAcceptance Form (DTE / State CET \nAllotment Letter) \nReceipt cum Acknowledgement of Seat \nAcceptance Form (DTE / State CET \nAllotment Letter) \n3) \nMHT CET/ JEE (Main) Score \nCard \nMHT CET/ JEE (Main) Score Card \nMHT CET/ JEE (Main) Score Card \n4) \n10th Standard (SSC) or Equivalent \nExam Mark Sheet \n10th Standard (SSC) or Equivalent \nExam Mark Sheet \n10th Standard (SSC) or Equivalent Exam \nMark Sheet \n5) \n12th Standard (HSC) or Equivalent \nExam Mark Sheet \n12th Standard (HSC) or Equivalent \nExam Mark Sheet \n12th Standard (HSC) or Equivalent Exam \nMark Sheet \n6) \nDiploma Mark Sheet (If \nApplicable) \nDiploma Mark Sheet (If Applicable) \nDiploma Mark Sheet (If Applicable) \n7) \nLeaving Certificate / Transfer \nCertificate \nLeaving Certificate / Transfer \nCertificate \nLeaving Certificate / Transfer Certificate \n8) \nMigration Certificate (Other than \nMaharashtra State Board only) \nMigration Certificate (Other than \nMaharashtra State Board only) \nMigration Certificate (Other than \nMaharashtra State Board only) \n9) \nDomicile Certificate \nDomicile Certificate \nDomicile Certificate \n10) \nProof of Indian Nationality \nProof of Indian Nationality \nProof of Indian Nationality \n11) \nGAP Certificate (If Applicable) \nGAP Certificate (If Applicable) \nGAP Certificate (If Applicable) \n12) \nCaste Certificate (All Category \nexcluding Open Category Full Fees) \nCaste \nCertificate \n(All \nCategory \nexcluding Open Category Full Fees) \nCaste Certificate (All Category excluding \nOpen Category Full Fees) \n13) \nCaste \nValidity \nCertificate \n(All \nCategory excluding Open Category \nFull Fees) \nCaste Validity Certificate (All Category \nexcluding Open Category Full Fees) \nCaste Validity Certificate (All Category \nexcluding Open Category Full Fees) \n14) \nNon-Creamy Layer Certificate (All \nCategory excluding SC, ST & Open \nCategory Full Fees) \nNon-Creamy Layer Certificate (All \nCategory excluding SC, ST & Open \nCategory Full Fees) \nNon-Creamy \nLayer \nCertificate \n(All \nCategory excluding SC, ST & Open \nCategory Full Fees) \n15) \nIncome Certificate of Father valid \ntill March 2027 (All Category \nexcluding Open Category Full fees) \nIncome Certificate of Father valid till \nMarch 2027 (All Category excluding \nOpen Category Full fees) \nIncome Certificate of Father valid till \nMarch 2027 (All Category excluding Open \nCategory Full fees) \n16) \nEWS Certificate for 2026-27 / DEF \n(Appropriate Proforma) / PH (40% \nor above Disability Certificate) / \nOrphan (Orphan Certificate) / JK \nMigrant / JK PMSSS / NEUT/ \nMaharashtra Type A, B, C (If \nApplicable) \nEWS Certificate for 2026-27 / DEF \n(Appropriate Proforma) / PH (40% or \nabove Disability Certificate) / Orphan \n(Orphan Certificate) / JK Migrant / JK \nPMSSS / NEUT/ Maharashtra Type A, \nB, C (If Applicable) \nEWS Certificate for 2026-27 / DEF \n(Appropriate Proforma) / PH (40% or \nabove Disability Certificate) / Orphan \n(Orphan Certificate) / JK Migrant / JK \nPMSSS / NEUT/ Maharashtra Type A, B, \nC (If Applicable) \n17) \nAadhar & PAN Xerox \nAadhar & PAN Xerox \nAadhar & PAN Xerox \n18) \nAPAR ID Xerox \nPrinted Institute Admission Form   \n \nPrinted Scholarship Undertaking Form  \n19) \nOther Documents (If any) \nOther Documents (If any) \nOther Documents (If any)",
+    "VIT ADMISSION PROCESS.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 3,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

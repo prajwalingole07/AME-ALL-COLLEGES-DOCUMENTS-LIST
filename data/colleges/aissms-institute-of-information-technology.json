@@ -1,0 +1,58 @@
+{
+  "id": "aissms-institute-of-information-technology",
+  "name": "AISSMS Institute of Information Technology",
+  "slug": "aissms-institute-of-information-technology",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "AIOIT",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "AISSMS IOIT B.Tech-First-Year-Students-Fees-2026-27.pdf",
+          "path": "/documents/aissms-institute-of-information-technology/AISSMS IOIT B.Tech-First-Year-Students-Fees-2026-27.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "AISSMS IOIT B.Tech-First-Year-Students-Fees-2026-27.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}

@@ -1,0 +1,58 @@
+{
+  "id": "puranmal-lahoti-government-institute-of-engineering-and-technology-latur",
+  "name": "PURANMAL LAHOTI GOVERNMENT INSTITUTE OF ENGINEERING AND TECHNOLOGY, LATUR",
+  "slug": "puranmal-lahoti-government-institute-of-engineering-and-technology-latur",
+  "location": "Latur, Maharashtra",
+  "city": "Latur",
+  "type": "Government",
+  "acronym": "PLGIOE",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.png",
+          "path": "/documents/puranmal-lahoti-government-institute-of-engineering-and-technology-latur/FEES STRUCTURE.png",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.png": "IMAGE_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 0
+  },
+  "code": "02015",
+  "cetCode": "02015",
+  "dteCode": "02015"
+}

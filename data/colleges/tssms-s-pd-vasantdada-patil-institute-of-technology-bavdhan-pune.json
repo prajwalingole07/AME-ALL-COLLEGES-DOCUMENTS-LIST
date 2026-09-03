@@ -1,0 +1,68 @@
+{
+  "id": "tssms-s-pd-vasantdada-patil-institute-of-technology-bavdhan-pune",
+  "name": "TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",
+  "slug": "tssms-s-pd-vasantdada-patil-institute-of-technology-bavdhan-pune",
+  "location": "Bavdhan, Maharashtra",
+  "city": "Bavdhan",
+  "type": "Private",
+  "acronym": "TSPVPI",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.jpg",
+          "path": "/documents/tssms-s-pd-vasantdada-patil-institute-of-technology-bavdhan-pune/FEES STRUCTURE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/tssms-s-pd-vasantdada-patil-institute-of-technology-bavdhan-pune/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.jpg": "IMAGE_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06122",
+  "cetCode": "06122",
+  "dteCode": "06122"
+}

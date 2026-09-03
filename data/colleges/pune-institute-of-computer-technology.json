@@ -1,0 +1,77 @@
+{
+  "id": "pune-institute-of-computer-technology",
+  "name": "Pune Institute of Computer Technology",
+  "slug": "pune-institute-of-computer-technology",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "PIOCT",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "CATOGERY WISE FEES STRUCTURE.jpg",
+          "path": "/documents/pune-institute-of-computer-technology/CATOGERY WISE FEES STRUCTURE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        },
+        {
+          "fileName": "FEES STRUCTURE.jpg",
+          "path": "/documents/pune-institute-of-computer-technology/FEES STRUCTURE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FORM FILLING.pdf",
+          "path": "/documents/pune-institute-of-computer-technology/FORM FILLING.pdf",
+          "type": "forms",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "CATOGERY WISE FEES STRUCTURE.jpg": "IMAGE_DOCUMENT",
+    "FEES STRUCTURE.jpg": "IMAGE_DOCUMENT",
+    "FORM FILLING.pdf": "Pune Institute of Computer Technology \n \nhttps://admissions.pict.edu/cap_student_pre_reporting.php \n \n \nFILL THIS FORM BEFORE INSTITUTE VISIT"
+  },
+  "stats": {
+    "totalDocs": 3,
+    "feesCount": 2,
+    "docsCount": 0
+  },
+  "code": "06271",
+  "cetCode": "06271",
+  "dteCode": "06271"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "m-s-bidve-engineering-college-latur",
+  "name": "M.S. Bidve Engineering College, Latur",
+  "slug": "m-s-bidve-engineering-college-latur",
+  "location": "Latur, Maharashtra",
+  "city": "Latur",
+  "type": "Private",
+  "acronym": "MSBECL",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.jpg",
+          "path": "/documents/m-s-bidve-engineering-college-latur/FEES STRUCTURE.jpg",
+          "type": "fees",
+          "status": "image",
+          "extracted": false,
+          "isImage": true
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/m-s-bidve-engineering-college-latur/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "JEE Score Card",
+    "Leaving Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "EWS Certificate",
+    "Domicile Certificate",
+    "Nationality Certificate",
+    "Income Certificate",
+    "Gap Certificate",
+    "Proforma",
+    "Orphan Certificate"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.jpg": "IMAGE_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "Mahatma Basweshwar Education Society’s \nM.S.Bidve Engineering College, \n                    P.O.Box No.112,Barshi Road,Latur – 413 531(Maharashtra) \n(Approved by AICTE New Delhi, DTE Mumbai, Affiliated to DBATU Lonere) \n            ‘NAAC’ Accredited   \n        ****************************************************************** \n प्रथम वर्ष अभिय ांत्रिकी पदवी[B.Tech(UG) 1st Year] अभ्य सक्रम स ठी केंद्रीिूत प्रथम वर्ष प्रवेश प्रक्रक्रय  \n(CAP ROUND) स ठी प्रवेश इच्छुक ववद्य र्थय ांकडे ख लील शैक्षणिक व इतर क गदपिे असिे आवश्यक आहे. \n   Eligibility: Passed 10+2 examination or its equivalent examination with Physics and Mathematics as compulsory subjects  \nalong with Chemistry/Biotechnology/Biology/Technical Vocational subject/Computer Science/Information Technology/ \nInformatics Practices/Agriculture/Engineering Graphics/Business Studies/Electronics/Entrepreneurship and obtained at \nleast 45% (at least 40% marks, in case of Reserved categories, EWS and PWD candidates belonging to the Maharashtra \nState only) in the above subjects taken together and The Candidate should have appeared in all the subjects in PCM MHT-\nCET/JEE  and obtained non zero score in PCM MHT-CET/JEE conducted by the Competent Authority. \n   [NOTE: Candidates having only JEE score card are eligible for All India quota (15%) only.] \n \n \n \n \n \n \nOR \nPassed minimum three years Diploma in Engineering and Technology and obtained at least 45% marks (at least 40% \nmarks, in case of Reserved categories, EWS and PWD candidates belonging to the Maharashtra State only). \nOR \nPassed three years Diploma of Vocation (D.Voc.) stream in the same or allied sector; \nI) Type– A & B Candidates: (Maharashtra State Domicile Candidates) \nअ. \nक्र. \nक गदपिे (Documents) \nOpen/EBC EWS \n*SEBC \nOBC \nVJNT/SBC \n \nSC/ST \n1 \nMHT-CET PCM मार्कशीट \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n2 \nJEE मार्कशीट  \n(if applicable)  \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n3 \nS. S. C.(10th) मार्कशीट \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n4 \nH. S. C.(12th) मार्कशीट \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n5 \nशाळा सोडल्याचा दाखला \n(Leaving Certificate) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n6 \nजात प्रमाणपत्र (Caste \nCertificate) \n× \n× \n✓ \n✓ \n✓ \n✓ \n7 \nजात वैधता प्रमाणपत्र \n(Caste Validity \nCertificate) \n× \n× \n✓ \n✓ \n✓ \n✓ \n8 \n#नॉन-क्रिमीलेअर प्रमाणपत्र \n(Non-Creamy Layer) \n× \n× \n✓ \n✓ \n✓ \n× \n9 \nतहससलदार प्रमाणणत \nउत्पन्न दाखला \n(EBC/Scholarship  साठी) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n10 \nअधधवास प्रमाणपत्र \n(Domicile Certificate) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n11 \nराष्ट्रीयत्व प्रमाणपत्र \n(Nationality Certificate) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n12 \nआधार र्ाडक (AADHAR) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n13 \n2 पासपोटक साईज फोटो \n(Photo) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n14 \nराष्ट्ष्ट्रर्ृत बँर्ेचे अर्ाऊंट \nपासबुर् (Bank Account) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n \n\n \n \nIn addition to the above documents the candidates of TYPE-A & B are required \nto produce the following additional documents depending upon the category to \nwhich they belong. (इतर आरक्षि स ठी ल गि रे ज स्तीचे क गदपिे ) \n1) Defence (डडफेंस) साठी Proforma-C  आणण सोबत आई/वडील (Mother/Father) यांपैर्ी \nएर्ाचे Domicile सर्टक्रफर्ेट पार्हजे.(रर्हवाशी चालत नाही) \n2) Orphan(अनाथ) साठी संबंधधत अधधर्ाऱ्याचे प्रमाणपत्र आवश्यर् आहे. (Orphan \nCertificate Proforma – U) \n3) PWD(अपंग) साठी ससववल हॉष्ट्पपटल (CIVIL Hospital) चे 40% पेक्षा जापत \nअपंगत्व असल्याचे प्रमाणपत्र. (udid र्ाडक चालत नाही).  \n  \n  II) Type – C Candidates:(Applicable for GoI(Central) Employees in case candidature \nTYPE-A & B is not applicable) \n  \n \nCertificate from the employer in the proforma – A stating that father/mother of \nthe candidate who is a Central Government / Government of India undertaking employee \nis presently posted in Maharashtra. \n \n  III) Type–D Candidates: :(Applicable for Maharashtra Govt. Employees in case \ncandidature TYPE-A,B & C is not applicable) \n  \n \nCertificate from the employer in the proforma – B stating that father/mother of \nthe candidate who is a Maharashtra State Government / Maharashtra State Government \nundertaking employee.  \nOr  \nUndertaking along with documentary evidences from the retired employee stating the place \nof settlement. \n \n  IV) Type-E Candidates Maharashtra Karnataka border area Candidates \n1. Certificate stating that candidate belongs to the Maharashtra Karnataka border area    \n     in proforma – G1.  \n2. Certificate stating that the mother tongue of the candidate is Marathi in  \n    proforma – G2  \n     (List of the villages in Maharashtra Karnataka border area is available on website) \n \nNOTE: Above documents and rules may change or vary time to time by competent \nauthority (State CET Cell, Mumbai). For latest updates please visit state CET cell official \nwebsite. \n* In case of SEBC Candidates reservation policy will be subject to the decision of Hon’ble High Court in related Writ Petition. \n# Non-Creamy Layer & Income Certificate must be valid till next year March 31st (e.g. for year 2025-26 validity is 31st March 2026. \n \nअ. \nक्र. \nक गदपिे (Documents) Open/EBC EWS \n*SEBC \nOBC \nVJNT/SBC \n \nSC/ST \n15 \nशैक्षणणर् खंड प्रमाणपत्र \n- गॅप असेल तर (Gap \nCertificate) \n✓ \n✓ \n✓ \n✓ \n✓ \n✓ \n16 \nआधथकर्दृष्ट््या मागास \nप्रमाणपत्र (EWS \nCertificate) \n× \n✓ \n× \n× \n× \n \n×"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "02129",
+  "cetCode": "02129",
+  "dteCode": "02129"
+}

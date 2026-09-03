@@ -1,0 +1,67 @@
+{
+  "id": "modern-education-society-s-wadia-college-of-engineering-pune",
+  "name": "Modern Education Society's Wadia College of Engineering, Pune",
+  "slug": "modern-education-society-s-wadia-college-of-engineering-pune",
+  "location": "Pune, Maharashtra",
+  "city": "Pune",
+  "type": "Private",
+  "acronym": "MESSWC",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE,DOCUMENTS LIST & FORM FILLING.pdf",
+          "path": "/documents/modern-education-society-s-wadia-college-of-engineering-pune/FEES STRUCTURE,DOCUMENTS LIST & FORM FILLING.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE,DOCUMENTS LIST & FORM FILLING.pdf",
+          "path": "/documents/modern-education-society-s-wadia-college-of-engineering-pune/FEES STRUCTURE,DOCUMENTS LIST & FORM FILLING.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE,DOCUMENTS LIST & FORM FILLING.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06281",
+  "cetCode": "06281",
+  "dteCode": "06281"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "m-g-m-s-college-of-engineering-and-technology-kamothe-navi-mumbai",
+  "name": "M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",
+  "slug": "m-g-m-s-college-of-engineering-and-technology-kamothe-navi-mumbai",
+  "location": "Kamothe, Maharashtra",
+  "city": "Kamothe",
+  "type": "Private",
+  "acronym": "MGMSCO",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "FEES STRUCTURE.pdf",
+          "path": "/documents/m-g-m-s-college-of-engineering-and-technology-kamothe-navi-mumbai/FEES STRUCTURE.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/m-g-m-s-college-of-engineering-and-technology-kamothe-navi-mumbai/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "FEES STRUCTURE.pdf": "Mahatma Gandhi Mission's \nCollege of Engineering and Technology, \nKamothe, Navi Mumbai \nMGM/CET/ADM/2026-27/ \nDate :• 27 July 2026 \nNOTICE \nFIRST YEAR ENGINEERING ADMISSION 2026-27 \nFee Stntet■re for students wbo are admitti ■g First Year Engi ■eeri ■g for tlw year 2026-27 \nFees for Open \nFees for \nFees for \nVJ/DT/NT/ \nFeaale \n& Category \nOBC/SEIIC/EB \nSBC Category \nSt■dnts \nFees for \nParticulars \nstudenls \nC/EWSwldo \nwltll v■Hd No■ \nwith Valid \nSC/ST \nwithout Non-\nvalid Non-\nCr« ■•)' layer \nNoaC'\"■f \nCaa,gory \nCmuny layer \nCreamy l1y<r \naadTFWS \nStudents \nLayer \nT■itio■ Fees \n84762.00 \n42,381.00 \n0.00 \n0.00 \n0.00 \nDevdopment Fees \n9,238.00 \n9,238.00 \n9,238.00 \n9,238.00 \n0.00 \nCaution Money Deposil \n1,000.00 \n1,000.00 \n1,000.00 \n1,000.00 \n1,000.00 \nTotal Fees \n95,000.00 \n52,619.00 \n10,238.00 \n10,238.00 \n1,000.00 \nNote:- \"Rnlew Application for Academic Year 2026-27\" is filled by MGM's College of \nEngineering & Technology against Fee Finalised for AY 2026-27. The final fee payable will be \ncommunicated to all the students admitted during 2026-27 as and when it will be finalised and \ndifference fees there after will be taken care by the Student. \nFees will be accepted through onlinc SBI Collect, \nWebelte for SDI onll■e Payment • \nhttps://www.onJjnesbj.sbj/sbicoUect/jcoJJecthome.htm?corplD=49 J 852 or \nhttps://www.onlinesbi.com \nDr.",
+    "DOCUMENTS LIST.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "03175",
+  "cetCode": "03175",
+  "dteCode": "03175"
+}

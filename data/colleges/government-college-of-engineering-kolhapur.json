@@ -1,0 +1,81 @@
+{
+  "id": "government-college-of-engineering-kolhapur",
+  "name": "Government College of Engineering, Kolhapur",
+  "slug": "government-college-of-engineering-kolhapur",
+  "location": "Kolhapur, Maharashtra",
+  "city": "Kolhapur",
+  "type": "Government",
+  "acronym": "GCOEK",
+  "documents": {
+    "fees": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "Revised FY Fee Structure 2026-27.pdf",
+          "path": "/documents/government-college-of-engineering-kolhapur/Revised FY Fee Structure 2026-27.pdf",
+          "type": "fees",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "documentsRequired": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "DOCUMENTS LIST.pdf",
+          "path": "/documents/government-college-of-engineering-kolhapur/DOCUMENTS LIST.pdf",
+          "type": "documents",
+          "status": "available",
+          "extracted": true,
+          "isImage": false
+        }
+      ]
+    },
+    "admissionProcess": {
+      "available": false,
+      "files": []
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": true,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [
+    "Leaving Certificate",
+    "Caste Certificate",
+    "Caste Validity",
+    "Non-Creamy Layer",
+    "EWS Certificate",
+    "Domicile Certificate",
+    "Nationality Certificate",
+    "Income Certificate",
+    "Allotment Letter",
+    "Proforma",
+    "Defence Certificate",
+    "Orphan Certificate"
+  ],
+  "admissionProcess": [],
+  "extractedText": {
+    "Revised FY Fee Structure 2026-27.pdf": "SCANNED_DOCUMENT",
+    "DOCUMENTS LIST.pdf": "GOVERNMENT COLLEGE OF ENGINEERING, KOLHAPUR\n1\n2\n3\n4\n5\n9\nSTEPS FOR\nFE/ DSE ADMISSION\n2026-27\nFOLLOW THE\nSEQUENCЕ\nCAREFULLY\nBEFORE YOU START:\nKeep at least 5 sets of Xerox copies of all the required documents.\nADMISSION PROCESS SEQUENCE\nVISIT TO COLLEGE STUDENT COOPERATIVE STORE\nCollect the Admission Folder.\nVISIT THE PHYSICS LAB (AG09B)\nOld Building.\n이\nTABLE 1- ENQUIRY & DOCUMENT ARRANGEMENT\nShow all original documents.\nArrange the documents in the prescribed sequence.\nTABLE 2 - PHYSICAL VERIFICATION\nGet all original documents physically verified.\nTABLE 3 - FEE PAYMENT\nPay the admission fees through online mode.\nTABLE 4 - ONLINE ADMISSION CONFIRMATION\nConfirm your admission on the CET CELL Portal.\nCollect your Final Admission Letter.\nTABLE 5 - SUBMIT DOCUMENTS\nSubmit all original documents and\n2 Xerox set of all documents.\n7\nADMISSION\nCOMPLETED\nCongratulations!\nIMPORTANT: Follow the sequence\ncarefully for a smooth admission process.\nWe wish you all the best\nfor your bright future!\n\nसदकोष असते\nRQER\nGOVERNMENT COLLEGE OF\nENGINEERING, KOLHAPUR\nYour Success, Our Commitment!\nGCOEK\nDTE\nMAHARASHTRA\nREQUIRED DOCUMENTS\nFOR FIRST YEAR/ DIRECT SECOND YEAR (DSE) ENGINEERING ADMISSION 2026-27\nCANDIDATES MUST BRING ALL ORIGINAL DOCUMENTS ALONG WITH\nTWO SETS OF SELF-ATTESTED PHOTOCOPIES.\nDOCUMENTS REQUIRED\nFOR ALL CANDIDATES\nAllotment Letter\nFC Receipt-cum-Acknowledgement\nSSC (10th) Mark Sheet\nHSC/ Diploma / B.Sc. Mark Sheet\nCET/JEE/NEET Score Card\n(whichever applicable)\nSchool Leaving Certificate\n(HSC/Diploma)\nDomicile & Nationality Certificate\nIncome Certificate\nADDITIONAL DOCUMENTS\n(IF APPLICABLE)\nMAHARASHTRA STATE CANDIDATURE\nType A: Domicile/Birth/Leaving Certificate\nindicating Maharashta birth.\nType B: Domicile Certificate of\nCandidate/Father/Mother.\nType C: Employer Certificate (Proforma A).\nType D: Employer Certificate (Proforma B) /\nSettlement Undertaking.\nType E: Proforma G1 & G2 Certificates.\nRESERVED CATEGORY\nCaste Certificate\nCaste Validity Certificate\nVJ/DT-NT/NT/\nOBC/SBC/SEBC\nCaste Certificate\nCaste Validity Certificate\nΟ\nNon-Creamy Layer Certificate\n(Valid up to 31 March 2027)\nEWS\nORPHAN\nOTHER CATEGORIES\nDEFENCE\nPERSONS WITH\nDISABILITY (PwD)\nTFWS\nMINORITY\nEWS Certificate\n(Proforma V-\n2026-27)\nOrphan Certificate\n(Proforma U)\nIMPORTANT\nRelevant Defence\nCertificate\n(Proforma C/D)\nwith supporting\ndocuments\nDisability Certificate\n(40% or above),\nProforma &\nDomicile Certificate\nCarry all original documents.\nIncome Certificate\n(Annual Income\nbelow 8 Lakhs)\nMinority Declaration/\nLeaving Certificate\n& Domicile\nCertificate\nCarry two sets of self-attested photocopies of every document.\nAdmission will be processed only after successful document verification.\nComplete Documents - Smooth Admission - Bright Future!"
+  },
+  "stats": {
+    "totalDocs": 2,
+    "feesCount": 1,
+    "docsCount": 1
+  },
+  "code": "06036",
+  "cetCode": "06036",
+  "dteCode": "06036"
+}

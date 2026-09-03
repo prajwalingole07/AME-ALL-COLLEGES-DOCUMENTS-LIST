@@ -1,0 +1,58 @@
+{
+  "id": "aissms-college-of-engineering",
+  "name": "AISSMS College of Engineering",
+  "slug": "aissms-college-of-engineering",
+  "location": "Maharashtra",
+  "city": "Maharashtra",
+  "type": "Private",
+  "acronym": "ACOE",
+  "documents": {
+    "fees": {
+      "available": false,
+      "files": []
+    },
+    "documentsRequired": {
+      "available": false,
+      "files": []
+    },
+    "admissionProcess": {
+      "available": true,
+      "files": [
+        {
+          "fileName": "AISSMS COE PROCESS.pdf",
+          "path": "/documents/aissms-college-of-engineering/AISSMS COE PROCESS.pdf",
+          "type": "admission",
+          "status": "available",
+          "extracted": false,
+          "isImage": false
+        }
+      ]
+    },
+    "forms": {
+      "available": false,
+      "files": []
+    },
+    "other": {
+      "available": false,
+      "files": []
+    }
+  },
+  "fees": {
+    "available": false,
+    "categories": [],
+    "rawEntries": []
+  },
+  "requiredDocuments": [],
+  "admissionProcess": [],
+  "extractedText": {
+    "AISSMS COE PROCESS.pdf": "SCANNED_DOCUMENT"
+  },
+  "stats": {
+    "totalDocs": 1,
+    "feesCount": 0,
+    "docsCount": 0
+  },
+  "code": "",
+  "cetCode": "",
+  "dteCode": ""
+}
